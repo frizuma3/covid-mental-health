@@ -47,13 +47,13 @@ It examines changes in mental health service usage around the COVID-19 intervent
 
 > Ensure the app reads its data with **relative paths** (as shipped: CSVs live inside `ShinyApp/` or `../Data/`).
 
-## Recruiter-Facing Highlights (suggested bullets)
+## Highlights
 - **Methodology:** Interrupted Time Series (GLS AR(1)) to estimate post‑intervention level and slope changes.
 - **Scale:** Multi‑year coverage with breakdowns by age/sex and diagnosis groups.
 - **Result:** Statistically significant post‑COVID slope change in service usage (update with your real estimates).
 - **Dashboard:** Interactive drill‑downs (age/sex, diagnoses, trends), downloadable tables, and reproducible code.
 
-## Reproducibility (optional but recommended)
+## Reproducibility
 - Initialise a project environment with **renv**:
   ```r
   install.packages("renv")
