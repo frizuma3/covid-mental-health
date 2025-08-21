@@ -75,4 +75,4 @@ It examines changes in mental health service usage around the COVID-19 intervent
 
 
 ## Licence
-MIT (or your choice). See `LICENSE` if added.
+©Max Nwosu
