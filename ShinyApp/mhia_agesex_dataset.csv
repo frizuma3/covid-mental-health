@@ -1,0 +1,901 @@
+year,geography1,geography2,ageband,sex_char,measure,dataset,value,period
+2018,Health board of residence,NHS Ayrshire & Arran,Ages 0 - 17,Male,Number of patients,Psychiatric,10,Pre-COVID
+2018,Health board of residence,NHS Ayrshire & Arran,Ages 0 - 17,Female,Number of patients,Psychiatric,15,Pre-COVID
+2018,Health board of residence,NHS Ayrshire & Arran,Ages 18 - 24,Male,Number of patients,Psychiatric,35,Pre-COVID
+2018,Health board of residence,NHS Ayrshire & Arran,Ages 18 - 24,Female,Number of patients,Psychiatric,25,Pre-COVID
+2018,Health board of residence,NHS Ayrshire & Arran,Ages 25 - 39,Male,Number of patients,Psychiatric,150,Pre-COVID
+2018,Health board of residence,NHS Ayrshire & Arran,Ages 25 - 39,Female,Number of patients,Psychiatric,90,Pre-COVID
+2018,Health board of residence,NHS Ayrshire & Arran,Ages 40 - 64,Male,Number of patients,Psychiatric,210,Pre-COVID
+2018,Health board of residence,NHS Ayrshire & Arran,Ages 40 - 64,Female,Number of patients,Psychiatric,195,Pre-COVID
+2018,Health board of residence,NHS Ayrshire & Arran,Ages 65+,Male,Number of patients,Psychiatric,75,Pre-COVID
+2018,Health board of residence,NHS Ayrshire & Arran,Ages 65+,Female,Number of patients,Psychiatric,105,Pre-COVID
+2018,Health board of residence,NHS Borders,Ages 0 - 17,Male,Number of patients,Psychiatric,5,Pre-COVID
+2018,Health board of residence,NHS Borders,Ages 0 - 17,Female,Number of patients,Psychiatric,10,Pre-COVID
+2018,Health board of residence,NHS Borders,Ages 18 - 24,Male,Number of patients,Psychiatric,5,Pre-COVID
+2018,Health board of residence,NHS Borders,Ages 18 - 24,Female,Number of patients,Psychiatric,15,Pre-COVID
+2018,Health board of residence,NHS Borders,Ages 25 - 39,Male,Number of patients,Psychiatric,35,Pre-COVID
+2018,Health board of residence,NHS Borders,Ages 25 - 39,Female,Number of patients,Psychiatric,35,Pre-COVID
+2018,Health board of residence,NHS Borders,Ages 40 - 64,Male,Number of patients,Psychiatric,50,Pre-COVID
+2018,Health board of residence,NHS Borders,Ages 40 - 64,Female,Number of patients,Psychiatric,55,Pre-COVID
+2018,Health board of residence,NHS Borders,Ages 65+,Male,Number of patients,Psychiatric,40,Pre-COVID
+2018,Health board of residence,NHS Borders,Ages 65+,Female,Number of patients,Psychiatric,30,Pre-COVID
+2018,Health board of residence,NHS Dumfries & Galloway,Ages 0 - 17,Male,Number of patients,Psychiatric,0,Pre-COVID
+2018,Health board of residence,NHS Dumfries & Galloway,Ages 0 - 17,Female,Number of patients,Psychiatric,10,Pre-COVID
+2018,Health board of residence,NHS Dumfries & Galloway,Ages 18 - 24,Male,Number of patients,Psychiatric,15,Pre-COVID
+2018,Health board of residence,NHS Dumfries & Galloway,Ages 18 - 24,Female,Number of patients,Psychiatric,10,Pre-COVID
+2018,Health board of residence,NHS Dumfries & Galloway,Ages 25 - 39,Male,Number of patients,Psychiatric,45,Pre-COVID
+2018,Health board of residence,NHS Dumfries & Galloway,Ages 25 - 39,Female,Number of patients,Psychiatric,45,Pre-COVID
+2018,Health board of residence,NHS Dumfries & Galloway,Ages 40 - 64,Male,Number of patients,Psychiatric,70,Pre-COVID
+2018,Health board of residence,NHS Dumfries & Galloway,Ages 40 - 64,Female,Number of patients,Psychiatric,70,Pre-COVID
+2018,Health board of residence,NHS Dumfries & Galloway,Ages 65+,Male,Number of patients,Psychiatric,60,Pre-COVID
+2018,Health board of residence,NHS Dumfries & Galloway,Ages 65+,Female,Number of patients,Psychiatric,55,Pre-COVID
+2018,Health board of residence,NHS Fife,Ages 0 - 17,Male,Number of patients,Psychiatric,10,Pre-COVID
+2018,Health board of residence,NHS Fife,Ages 0 - 17,Female,Number of patients,Psychiatric,10,Pre-COVID
+2018,Health board of residence,NHS Fife,Ages 18 - 24,Male,Number of patients,Psychiatric,35,Pre-COVID
+2018,Health board of residence,NHS Fife,Ages 18 - 24,Female,Number of patients,Psychiatric,50,Pre-COVID
+2018,Health board of residence,NHS Fife,Ages 25 - 39,Male,Number of patients,Psychiatric,115,Pre-COVID
+2018,Health board of residence,NHS Fife,Ages 25 - 39,Female,Number of patients,Psychiatric,130,Pre-COVID
+2018,Health board of residence,NHS Fife,Ages 40 - 64,Male,Number of patients,Psychiatric,180,Pre-COVID
+2018,Health board of residence,NHS Fife,Ages 40 - 64,Female,Number of patients,Psychiatric,185,Pre-COVID
+2018,Health board of residence,NHS Fife,Ages 65+,Male,Number of patients,Psychiatric,100,Pre-COVID
+2018,Health board of residence,NHS Fife,Ages 65+,Female,Number of patients,Psychiatric,110,Pre-COVID
+2018,Health board of residence,NHS Forth Valley,Ages 0 - 17,Male,Number of patients,Psychiatric,10,Pre-COVID
+2018,Health board of residence,NHS Forth Valley,Ages 0 - 17,Female,Number of patients,Psychiatric,15,Pre-COVID
+2018,Health board of residence,NHS Forth Valley,Ages 18 - 24,Male,Number of patients,Psychiatric,40,Pre-COVID
+2018,Health board of residence,NHS Forth Valley,Ages 18 - 24,Female,Number of patients,Psychiatric,25,Pre-COVID
+2018,Health board of residence,NHS Forth Valley,Ages 25 - 39,Male,Number of patients,Psychiatric,105,Pre-COVID
+2018,Health board of residence,NHS Forth Valley,Ages 25 - 39,Female,Number of patients,Psychiatric,85,Pre-COVID
+2018,Health board of residence,NHS Forth Valley,Ages 40 - 64,Male,Number of patients,Psychiatric,160,Pre-COVID
+2018,Health board of residence,NHS Forth Valley,Ages 40 - 64,Female,Number of patients,Psychiatric,135,Pre-COVID
+2018,Health board of residence,NHS Forth Valley,Ages 65+,Male,Number of patients,Psychiatric,125,Pre-COVID
+2018,Health board of residence,NHS Forth Valley,Ages 65+,Female,Number of patients,Psychiatric,110,Pre-COVID
+2018,Health board of residence,NHS Grampian,Ages 0 - 17,Male,Number of patients,Psychiatric,5,Pre-COVID
+2018,Health board of residence,NHS Grampian,Ages 0 - 17,Female,Number of patients,Psychiatric,10,Pre-COVID
+2018,Health board of residence,NHS Grampian,Ages 18 - 24,Male,Number of patients,Psychiatric,55,Pre-COVID
+2018,Health board of residence,NHS Grampian,Ages 18 - 24,Female,Number of patients,Psychiatric,50,Pre-COVID
+2018,Health board of residence,NHS Grampian,Ages 25 - 39,Male,Number of patients,Psychiatric,155,Pre-COVID
+2018,Health board of residence,NHS Grampian,Ages 25 - 39,Female,Number of patients,Psychiatric,140,Pre-COVID
+2018,Health board of residence,NHS Grampian,Ages 40 - 64,Male,Number of patients,Psychiatric,245,Pre-COVID
+2018,Health board of residence,NHS Grampian,Ages 40 - 64,Female,Number of patients,Psychiatric,200,Pre-COVID
+2018,Health board of residence,NHS Grampian,Ages 65+,Male,Number of patients,Psychiatric,160,Pre-COVID
+2018,Health board of residence,NHS Grampian,Ages 65+,Female,Number of patients,Psychiatric,160,Pre-COVID
+2018,Health board of residence,NHS Greater Glasgow & Clyde,Ages 0 - 17,Male,Number of patients,Psychiatric,25,Pre-COVID
+2018,Health board of residence,NHS Greater Glasgow & Clyde,Ages 0 - 17,Female,Number of patients,Psychiatric,60,Pre-COVID
+2018,Health board of residence,NHS Greater Glasgow & Clyde,Ages 18 - 24,Male,Number of patients,Psychiatric,160,Pre-COVID
+2018,Health board of residence,NHS Greater Glasgow & Clyde,Ages 18 - 24,Female,Number of patients,Psychiatric,130,Pre-COVID
+2018,Health board of residence,NHS Greater Glasgow & Clyde,Ages 25 - 39,Male,Number of patients,Psychiatric,515,Pre-COVID
+2018,Health board of residence,NHS Greater Glasgow & Clyde,Ages 25 - 39,Female,Number of patients,Psychiatric,405,Pre-COVID
+2018,Health board of residence,NHS Greater Glasgow & Clyde,Ages 40 - 64,Male,Number of patients,Psychiatric,895,Pre-COVID
+2018,Health board of residence,NHS Greater Glasgow & Clyde,Ages 40 - 64,Female,Number of patients,Psychiatric,645,Pre-COVID
+2018,Health board of residence,NHS Greater Glasgow & Clyde,Ages 65+,Male,Number of patients,Psychiatric,335,Pre-COVID
+2018,Health board of residence,NHS Greater Glasgow & Clyde,Ages 65+,Female,Number of patients,Psychiatric,395,Pre-COVID
+2018,Health board of residence,NHS Highland,Ages 0 - 17,Male,Number of patients,Psychiatric,10,Pre-COVID
+2018,Health board of residence,NHS Highland,Ages 0 - 17,Female,Number of patients,Psychiatric,10,Pre-COVID
+2018,Health board of residence,NHS Highland,Ages 18 - 24,Male,Number of patients,Psychiatric,35,Pre-COVID
+2018,Health board of residence,NHS Highland,Ages 18 - 24,Female,Number of patients,Psychiatric,35,Pre-COVID
+2018,Health board of residence,NHS Highland,Ages 25 - 39,Male,Number of patients,Psychiatric,115,Pre-COVID
+2018,Health board of residence,NHS Highland,Ages 25 - 39,Female,Number of patients,Psychiatric,90,Pre-COVID
+2018,Health board of residence,NHS Highland,Ages 40 - 64,Male,Number of patients,Psychiatric,140,Pre-COVID
+2018,Health board of residence,NHS Highland,Ages 40 - 64,Female,Number of patients,Psychiatric,145,Pre-COVID
+2018,Health board of residence,NHS Highland,Ages 65+,Male,Number of patients,Psychiatric,95,Pre-COVID
+2018,Health board of residence,NHS Highland,Ages 65+,Female,Number of patients,Psychiatric,80,Pre-COVID
+2018,Health board of residence,NHS Lanarkshire,Ages 0 - 17,Male,Number of patients,Psychiatric,20,Pre-COVID
+2018,Health board of residence,NHS Lanarkshire,Ages 0 - 17,Female,Number of patients,Psychiatric,25,Pre-COVID
+2018,Health board of residence,NHS Lanarkshire,Ages 18 - 24,Male,Number of patients,Psychiatric,70,Pre-COVID
+2018,Health board of residence,NHS Lanarkshire,Ages 18 - 24,Female,Number of patients,Psychiatric,45,Pre-COVID
+2018,Health board of residence,NHS Lanarkshire,Ages 25 - 39,Male,Number of patients,Psychiatric,195,Pre-COVID
+2018,Health board of residence,NHS Lanarkshire,Ages 25 - 39,Female,Number of patients,Psychiatric,145,Pre-COVID
+2018,Health board of residence,NHS Lanarkshire,Ages 40 - 64,Male,Number of patients,Psychiatric,300,Pre-COVID
+2018,Health board of residence,NHS Lanarkshire,Ages 40 - 64,Female,Number of patients,Psychiatric,235,Pre-COVID
+2018,Health board of residence,NHS Lanarkshire,Ages 65+,Male,Number of patients,Psychiatric,155,Pre-COVID
+2018,Health board of residence,NHS Lanarkshire,Ages 65+,Female,Number of patients,Psychiatric,170,Pre-COVID
+2018,Health board of residence,NHS Lothian,Ages 0 - 17,Male,Number of patients,Psychiatric,25,Pre-COVID
+2018,Health board of residence,NHS Lothian,Ages 0 - 17,Female,Number of patients,Psychiatric,35,Pre-COVID
+2018,Health board of residence,NHS Lothian,Ages 18 - 24,Male,Number of patients,Psychiatric,100,Pre-COVID
+2018,Health board of residence,NHS Lothian,Ages 18 - 24,Female,Number of patients,Psychiatric,70,Pre-COVID
+2018,Health board of residence,NHS Lothian,Ages 25 - 39,Male,Number of patients,Psychiatric,285,Pre-COVID
+2018,Health board of residence,NHS Lothian,Ages 25 - 39,Female,Number of patients,Psychiatric,210,Pre-COVID
+2018,Health board of residence,NHS Lothian,Ages 40 - 64,Male,Number of patients,Psychiatric,400,Pre-COVID
+2018,Health board of residence,NHS Lothian,Ages 40 - 64,Female,Number of patients,Psychiatric,365,Pre-COVID
+2018,Health board of residence,NHS Lothian,Ages 65+,Male,Number of patients,Psychiatric,265,Pre-COVID
+2018,Health board of residence,NHS Lothian,Ages 65+,Female,Number of patients,Psychiatric,305,Pre-COVID
+2018,Health board of residence,NHS Orkney,Ages 0 - 17,Male,Number of patients,Psychiatric,0,Pre-COVID
+2018,Health board of residence,NHS Orkney,Ages 0 - 17,Female,Number of patients,Psychiatric,0,Pre-COVID
+2018,Health board of residence,NHS Orkney,Ages 18 - 24,Male,Number of patients,Psychiatric,0,Pre-COVID
+2018,Health board of residence,NHS Orkney,Ages 18 - 24,Female,Number of patients,Psychiatric,0,Pre-COVID
+2018,Health board of residence,NHS Orkney,Ages 25 - 39,Male,Number of patients,Psychiatric,5,Pre-COVID
+2018,Health board of residence,NHS Orkney,Ages 25 - 39,Female,Number of patients,Psychiatric,5,Pre-COVID
+2018,Health board of residence,NHS Orkney,Ages 40 - 64,Male,Number of patients,Psychiatric,5,Pre-COVID
+2018,Health board of residence,NHS Orkney,Ages 40 - 64,Female,Number of patients,Psychiatric,5,Pre-COVID
+2018,Health board of residence,NHS Orkney,Ages 65+,Male,Number of patients,Psychiatric,5,Pre-COVID
+2018,Health board of residence,NHS Orkney,Ages 65+,Female,Number of patients,Psychiatric,0,Pre-COVID
+2018,Health board of residence,NHS Shetland,Ages 0 - 17,Male,Number of patients,Psychiatric,0,Pre-COVID
+2018,Health board of residence,NHS Shetland,Ages 0 - 17,Female,Number of patients,Psychiatric,0,Pre-COVID
+2018,Health board of residence,NHS Shetland,Ages 18 - 24,Male,Number of patients,Psychiatric,0,Pre-COVID
+2018,Health board of residence,NHS Shetland,Ages 18 - 24,Female,Number of patients,Psychiatric,0,Pre-COVID
+2018,Health board of residence,NHS Shetland,Ages 25 - 39,Male,Number of patients,Psychiatric,0,Pre-COVID
+2018,Health board of residence,NHS Shetland,Ages 25 - 39,Female,Number of patients,Psychiatric,0,Pre-COVID
+2018,Health board of residence,NHS Shetland,Ages 40 - 64,Male,Number of patients,Psychiatric,0,Pre-COVID
+2018,Health board of residence,NHS Shetland,Ages 40 - 64,Female,Number of patients,Psychiatric,0,Pre-COVID
+2018,Health board of residence,NHS Shetland,Ages 65+,Male,Number of patients,Psychiatric,0,Pre-COVID
+2018,Health board of residence,NHS Shetland,Ages 65+,Female,Number of patients,Psychiatric,0,Pre-COVID
+2018,Health board of residence,NHS Tayside,Ages 0 - 17,Male,Number of patients,Psychiatric,10,Pre-COVID
+2018,Health board of residence,NHS Tayside,Ages 0 - 17,Female,Number of patients,Psychiatric,20,Pre-COVID
+2018,Health board of residence,NHS Tayside,Ages 18 - 24,Male,Number of patients,Psychiatric,75,Pre-COVID
+2018,Health board of residence,NHS Tayside,Ages 18 - 24,Female,Number of patients,Psychiatric,80,Pre-COVID
+2018,Health board of residence,NHS Tayside,Ages 25 - 39,Male,Number of patients,Psychiatric,225,Pre-COVID
+2018,Health board of residence,NHS Tayside,Ages 25 - 39,Female,Number of patients,Psychiatric,150,Pre-COVID
+2018,Health board of residence,NHS Tayside,Ages 40 - 64,Male,Number of patients,Psychiatric,280,Pre-COVID
+2018,Health board of residence,NHS Tayside,Ages 40 - 64,Female,Number of patients,Psychiatric,220,Pre-COVID
+2018,Health board of residence,NHS Tayside,Ages 65+,Male,Number of patients,Psychiatric,185,Pre-COVID
+2018,Health board of residence,NHS Tayside,Ages 65+,Female,Number of patients,Psychiatric,210,Pre-COVID
+2018,Health board of residence,NHS Western Isles,Ages 0 - 17,Male,Number of patients,Psychiatric,0,Pre-COVID
+2018,Health board of residence,NHS Western Isles,Ages 0 - 17,Female,Number of patients,Psychiatric,5,Pre-COVID
+2018,Health board of residence,NHS Western Isles,Ages 18 - 24,Male,Number of patients,Psychiatric,0,Pre-COVID
+2018,Health board of residence,NHS Western Isles,Ages 18 - 24,Female,Number of patients,Psychiatric,5,Pre-COVID
+2018,Health board of residence,NHS Western Isles,Ages 25 - 39,Male,Number of patients,Psychiatric,5,Pre-COVID
+2018,Health board of residence,NHS Western Isles,Ages 25 - 39,Female,Number of patients,Psychiatric,5,Pre-COVID
+2018,Health board of residence,NHS Western Isles,Ages 40 - 64,Male,Number of patients,Psychiatric,15,Pre-COVID
+2018,Health board of residence,NHS Western Isles,Ages 40 - 64,Female,Number of patients,Psychiatric,15,Pre-COVID
+2018,Health board of residence,NHS Western Isles,Ages 65+,Male,Number of patients,Psychiatric,10,Pre-COVID
+2018,Health board of residence,NHS Western Isles,Ages 65+,Female,Number of patients,Psychiatric,5,Pre-COVID
+2018,Health board of residence,Other,Ages 0 - 17,Male,Number of patients,Psychiatric,0,Pre-COVID
+2018,Health board of residence,Other,Ages 0 - 17,Female,Number of patients,Psychiatric,0,Pre-COVID
+2018,Health board of residence,Other,Ages 18 - 24,Male,Number of patients,Psychiatric,15,Pre-COVID
+2018,Health board of residence,Other,Ages 18 - 24,Female,Number of patients,Psychiatric,15,Pre-COVID
+2018,Health board of residence,Other,Ages 25 - 39,Male,Number of patients,Psychiatric,90,Pre-COVID
+2018,Health board of residence,Other,Ages 25 - 39,Female,Number of patients,Psychiatric,30,Pre-COVID
+2018,Health board of residence,Other,Ages 40 - 64,Male,Number of patients,Psychiatric,75,Pre-COVID
+2018,Health board of residence,Other,Ages 40 - 64,Female,Number of patients,Psychiatric,45,Pre-COVID
+2018,Health board of residence,Other,Ages 65+,Male,Number of patients,Psychiatric,20,Pre-COVID
+2018,Health board of residence,Other,Ages 65+,Female,Number of patients,Psychiatric,10,Pre-COVID
+2019,Health board of residence,NHS Ayrshire & Arran,Ages 0 - 17,Male,Number of patients,Psychiatric,5,Pre-COVID
+2019,Health board of residence,NHS Ayrshire & Arran,Ages 0 - 17,Female,Number of patients,Psychiatric,15,Pre-COVID
+2019,Health board of residence,NHS Ayrshire & Arran,Ages 18 - 24,Male,Number of patients,Psychiatric,25,Pre-COVID
+2019,Health board of residence,NHS Ayrshire & Arran,Ages 18 - 24,Female,Number of patients,Psychiatric,25,Pre-COVID
+2019,Health board of residence,NHS Ayrshire & Arran,Ages 25 - 39,Male,Number of patients,Psychiatric,125,Pre-COVID
+2019,Health board of residence,NHS Ayrshire & Arran,Ages 25 - 39,Female,Number of patients,Psychiatric,85,Pre-COVID
+2019,Health board of residence,NHS Ayrshire & Arran,Ages 40 - 64,Male,Number of patients,Psychiatric,185,Pre-COVID
+2019,Health board of residence,NHS Ayrshire & Arran,Ages 40 - 64,Female,Number of patients,Psychiatric,170,Pre-COVID
+2019,Health board of residence,NHS Ayrshire & Arran,Ages 65+,Male,Number of patients,Psychiatric,75,Pre-COVID
+2019,Health board of residence,NHS Ayrshire & Arran,Ages 65+,Female,Number of patients,Psychiatric,85,Pre-COVID
+2019,Health board of residence,NHS Borders,Ages 0 - 17,Male,Number of patients,Psychiatric,5,Pre-COVID
+2019,Health board of residence,NHS Borders,Ages 0 - 17,Female,Number of patients,Psychiatric,10,Pre-COVID
+2019,Health board of residence,NHS Borders,Ages 18 - 24,Male,Number of patients,Psychiatric,20,Pre-COVID
+2019,Health board of residence,NHS Borders,Ages 18 - 24,Female,Number of patients,Psychiatric,20,Pre-COVID
+2019,Health board of residence,NHS Borders,Ages 25 - 39,Male,Number of patients,Psychiatric,45,Pre-COVID
+2019,Health board of residence,NHS Borders,Ages 25 - 39,Female,Number of patients,Psychiatric,30,Pre-COVID
+2019,Health board of residence,NHS Borders,Ages 40 - 64,Male,Number of patients,Psychiatric,65,Pre-COVID
+2019,Health board of residence,NHS Borders,Ages 40 - 64,Female,Number of patients,Psychiatric,60,Pre-COVID
+2019,Health board of residence,NHS Borders,Ages 65+,Male,Number of patients,Psychiatric,40,Pre-COVID
+2019,Health board of residence,NHS Borders,Ages 65+,Female,Number of patients,Psychiatric,40,Pre-COVID
+2019,Health board of residence,NHS Dumfries & Galloway,Ages 0 - 17,Male,Number of patients,Psychiatric,0,Pre-COVID
+2019,Health board of residence,NHS Dumfries & Galloway,Ages 0 - 17,Female,Number of patients,Psychiatric,10,Pre-COVID
+2019,Health board of residence,NHS Dumfries & Galloway,Ages 18 - 24,Male,Number of patients,Psychiatric,10,Pre-COVID
+2019,Health board of residence,NHS Dumfries & Galloway,Ages 18 - 24,Female,Number of patients,Psychiatric,20,Pre-COVID
+2019,Health board of residence,NHS Dumfries & Galloway,Ages 25 - 39,Male,Number of patients,Psychiatric,55,Pre-COVID
+2019,Health board of residence,NHS Dumfries & Galloway,Ages 25 - 39,Female,Number of patients,Psychiatric,50,Pre-COVID
+2019,Health board of residence,NHS Dumfries & Galloway,Ages 40 - 64,Male,Number of patients,Psychiatric,80,Pre-COVID
+2019,Health board of residence,NHS Dumfries & Galloway,Ages 40 - 64,Female,Number of patients,Psychiatric,60,Pre-COVID
+2019,Health board of residence,NHS Dumfries & Galloway,Ages 65+,Male,Number of patients,Psychiatric,65,Pre-COVID
+2019,Health board of residence,NHS Dumfries & Galloway,Ages 65+,Female,Number of patients,Psychiatric,60,Pre-COVID
+2019,Health board of residence,NHS Fife,Ages 0 - 17,Male,Number of patients,Psychiatric,5,Pre-COVID
+2019,Health board of residence,NHS Fife,Ages 0 - 17,Female,Number of patients,Psychiatric,5,Pre-COVID
+2019,Health board of residence,NHS Fife,Ages 18 - 24,Male,Number of patients,Psychiatric,40,Pre-COVID
+2019,Health board of residence,NHS Fife,Ages 18 - 24,Female,Number of patients,Psychiatric,60,Pre-COVID
+2019,Health board of residence,NHS Fife,Ages 25 - 39,Male,Number of patients,Psychiatric,120,Pre-COVID
+2019,Health board of residence,NHS Fife,Ages 25 - 39,Female,Number of patients,Psychiatric,125,Pre-COVID
+2019,Health board of residence,NHS Fife,Ages 40 - 64,Male,Number of patients,Psychiatric,160,Pre-COVID
+2019,Health board of residence,NHS Fife,Ages 40 - 64,Female,Number of patients,Psychiatric,170,Pre-COVID
+2019,Health board of residence,NHS Fife,Ages 65+,Male,Number of patients,Psychiatric,125,Pre-COVID
+2019,Health board of residence,NHS Fife,Ages 65+,Female,Number of patients,Psychiatric,105,Pre-COVID
+2019,Health board of residence,NHS Forth Valley,Ages 0 - 17,Male,Number of patients,Psychiatric,5,Pre-COVID
+2019,Health board of residence,NHS Forth Valley,Ages 0 - 17,Female,Number of patients,Psychiatric,10,Pre-COVID
+2019,Health board of residence,NHS Forth Valley,Ages 18 - 24,Male,Number of patients,Psychiatric,25,Pre-COVID
+2019,Health board of residence,NHS Forth Valley,Ages 18 - 24,Female,Number of patients,Psychiatric,30,Pre-COVID
+2019,Health board of residence,NHS Forth Valley,Ages 25 - 39,Male,Number of patients,Psychiatric,105,Pre-COVID
+2019,Health board of residence,NHS Forth Valley,Ages 25 - 39,Female,Number of patients,Psychiatric,80,Pre-COVID
+2019,Health board of residence,NHS Forth Valley,Ages 40 - 64,Male,Number of patients,Psychiatric,160,Pre-COVID
+2019,Health board of residence,NHS Forth Valley,Ages 40 - 64,Female,Number of patients,Psychiatric,115,Pre-COVID
+2019,Health board of residence,NHS Forth Valley,Ages 65+,Male,Number of patients,Psychiatric,115,Pre-COVID
+2019,Health board of residence,NHS Forth Valley,Ages 65+,Female,Number of patients,Psychiatric,110,Pre-COVID
+2019,Health board of residence,NHS Grampian,Ages 0 - 17,Male,Number of patients,Psychiatric,5,Pre-COVID
+2019,Health board of residence,NHS Grampian,Ages 0 - 17,Female,Number of patients,Psychiatric,10,Pre-COVID
+2019,Health board of residence,NHS Grampian,Ages 18 - 24,Male,Number of patients,Psychiatric,55,Pre-COVID
+2019,Health board of residence,NHS Grampian,Ages 18 - 24,Female,Number of patients,Psychiatric,70,Pre-COVID
+2019,Health board of residence,NHS Grampian,Ages 25 - 39,Male,Number of patients,Psychiatric,150,Pre-COVID
+2019,Health board of residence,NHS Grampian,Ages 25 - 39,Female,Number of patients,Psychiatric,120,Pre-COVID
+2019,Health board of residence,NHS Grampian,Ages 40 - 64,Male,Number of patients,Psychiatric,240,Pre-COVID
+2019,Health board of residence,NHS Grampian,Ages 40 - 64,Female,Number of patients,Psychiatric,210,Pre-COVID
+2019,Health board of residence,NHS Grampian,Ages 65+,Male,Number of patients,Psychiatric,155,Pre-COVID
+2019,Health board of residence,NHS Grampian,Ages 65+,Female,Number of patients,Psychiatric,170,Pre-COVID
+2019,Health board of residence,NHS Greater Glasgow & Clyde,Ages 0 - 17,Male,Number of patients,Psychiatric,25,Pre-COVID
+2019,Health board of residence,NHS Greater Glasgow & Clyde,Ages 0 - 17,Female,Number of patients,Psychiatric,60,Pre-COVID
+2019,Health board of residence,NHS Greater Glasgow & Clyde,Ages 18 - 24,Male,Number of patients,Psychiatric,155,Pre-COVID
+2019,Health board of residence,NHS Greater Glasgow & Clyde,Ages 18 - 24,Female,Number of patients,Psychiatric,130,Pre-COVID
+2019,Health board of residence,NHS Greater Glasgow & Clyde,Ages 25 - 39,Male,Number of patients,Psychiatric,520,Pre-COVID
+2019,Health board of residence,NHS Greater Glasgow & Clyde,Ages 25 - 39,Female,Number of patients,Psychiatric,400,Pre-COVID
+2019,Health board of residence,NHS Greater Glasgow & Clyde,Ages 40 - 64,Male,Number of patients,Psychiatric,855,Pre-COVID
+2019,Health board of residence,NHS Greater Glasgow & Clyde,Ages 40 - 64,Female,Number of patients,Psychiatric,685,Pre-COVID
+2019,Health board of residence,NHS Greater Glasgow & Clyde,Ages 65+,Male,Number of patients,Psychiatric,360,Pre-COVID
+2019,Health board of residence,NHS Greater Glasgow & Clyde,Ages 65+,Female,Number of patients,Psychiatric,405,Pre-COVID
+2019,Health board of residence,NHS Highland,Ages 0 - 17,Male,Number of patients,Psychiatric,5,Pre-COVID
+2019,Health board of residence,NHS Highland,Ages 0 - 17,Female,Number of patients,Psychiatric,10,Pre-COVID
+2019,Health board of residence,NHS Highland,Ages 18 - 24,Male,Number of patients,Psychiatric,40,Pre-COVID
+2019,Health board of residence,NHS Highland,Ages 18 - 24,Female,Number of patients,Psychiatric,30,Pre-COVID
+2019,Health board of residence,NHS Highland,Ages 25 - 39,Male,Number of patients,Psychiatric,115,Pre-COVID
+2019,Health board of residence,NHS Highland,Ages 25 - 39,Female,Number of patients,Psychiatric,70,Pre-COVID
+2019,Health board of residence,NHS Highland,Ages 40 - 64,Male,Number of patients,Psychiatric,165,Pre-COVID
+2019,Health board of residence,NHS Highland,Ages 40 - 64,Female,Number of patients,Psychiatric,135,Pre-COVID
+2019,Health board of residence,NHS Highland,Ages 65+,Male,Number of patients,Psychiatric,70,Pre-COVID
+2019,Health board of residence,NHS Highland,Ages 65+,Female,Number of patients,Psychiatric,75,Pre-COVID
+2019,Health board of residence,NHS Lanarkshire,Ages 0 - 17,Male,Number of patients,Psychiatric,20,Pre-COVID
+2019,Health board of residence,NHS Lanarkshire,Ages 0 - 17,Female,Number of patients,Psychiatric,40,Pre-COVID
+2019,Health board of residence,NHS Lanarkshire,Ages 18 - 24,Male,Number of patients,Psychiatric,65,Pre-COVID
+2019,Health board of residence,NHS Lanarkshire,Ages 18 - 24,Female,Number of patients,Psychiatric,65,Pre-COVID
+2019,Health board of residence,NHS Lanarkshire,Ages 25 - 39,Male,Number of patients,Psychiatric,200,Pre-COVID
+2019,Health board of residence,NHS Lanarkshire,Ages 25 - 39,Female,Number of patients,Psychiatric,165,Pre-COVID
+2019,Health board of residence,NHS Lanarkshire,Ages 40 - 64,Male,Number of patients,Psychiatric,290,Pre-COVID
+2019,Health board of residence,NHS Lanarkshire,Ages 40 - 64,Female,Number of patients,Psychiatric,260,Pre-COVID
+2019,Health board of residence,NHS Lanarkshire,Ages 65+,Male,Number of patients,Psychiatric,165,Pre-COVID
+2019,Health board of residence,NHS Lanarkshire,Ages 65+,Female,Number of patients,Psychiatric,160,Pre-COVID
+2019,Health board of residence,NHS Lothian,Ages 0 - 17,Male,Number of patients,Psychiatric,25,Pre-COVID
+2019,Health board of residence,NHS Lothian,Ages 0 - 17,Female,Number of patients,Psychiatric,50,Pre-COVID
+2019,Health board of residence,NHS Lothian,Ages 18 - 24,Male,Number of patients,Psychiatric,100,Pre-COVID
+2019,Health board of residence,NHS Lothian,Ages 18 - 24,Female,Number of patients,Psychiatric,120,Pre-COVID
+2019,Health board of residence,NHS Lothian,Ages 25 - 39,Male,Number of patients,Psychiatric,295,Pre-COVID
+2019,Health board of residence,NHS Lothian,Ages 25 - 39,Female,Number of patients,Psychiatric,240,Pre-COVID
+2019,Health board of residence,NHS Lothian,Ages 40 - 64,Male,Number of patients,Psychiatric,445,Pre-COVID
+2019,Health board of residence,NHS Lothian,Ages 40 - 64,Female,Number of patients,Psychiatric,360,Pre-COVID
+2019,Health board of residence,NHS Lothian,Ages 65+,Male,Number of patients,Psychiatric,240,Pre-COVID
+2019,Health board of residence,NHS Lothian,Ages 65+,Female,Number of patients,Psychiatric,270,Pre-COVID
+2019,Health board of residence,NHS Orkney,Ages 0 - 17,Male,Number of patients,Psychiatric,0,Pre-COVID
+2019,Health board of residence,NHS Orkney,Ages 0 - 17,Female,Number of patients,Psychiatric,0,Pre-COVID
+2019,Health board of residence,NHS Orkney,Ages 18 - 24,Male,Number of patients,Psychiatric,0,Pre-COVID
+2019,Health board of residence,NHS Orkney,Ages 18 - 24,Female,Number of patients,Psychiatric,0,Pre-COVID
+2019,Health board of residence,NHS Orkney,Ages 25 - 39,Male,Number of patients,Psychiatric,5,Pre-COVID
+2019,Health board of residence,NHS Orkney,Ages 25 - 39,Female,Number of patients,Psychiatric,5,Pre-COVID
+2019,Health board of residence,NHS Orkney,Ages 40 - 64,Male,Number of patients,Psychiatric,5,Pre-COVID
+2019,Health board of residence,NHS Orkney,Ages 40 - 64,Female,Number of patients,Psychiatric,10,Pre-COVID
+2019,Health board of residence,NHS Orkney,Ages 65+,Male,Number of patients,Psychiatric,5,Pre-COVID
+2019,Health board of residence,NHS Orkney,Ages 65+,Female,Number of patients,Psychiatric,5,Pre-COVID
+2019,Health board of residence,NHS Shetland,Ages 0 - 17,Male,Number of patients,Psychiatric,0,Pre-COVID
+2019,Health board of residence,NHS Shetland,Ages 0 - 17,Female,Number of patients,Psychiatric,0,Pre-COVID
+2019,Health board of residence,NHS Shetland,Ages 18 - 24,Male,Number of patients,Psychiatric,0,Pre-COVID
+2019,Health board of residence,NHS Shetland,Ages 18 - 24,Female,Number of patients,Psychiatric,0,Pre-COVID
+2019,Health board of residence,NHS Shetland,Ages 25 - 39,Male,Number of patients,Psychiatric,0,Pre-COVID
+2019,Health board of residence,NHS Shetland,Ages 25 - 39,Female,Number of patients,Psychiatric,5,Pre-COVID
+2019,Health board of residence,NHS Shetland,Ages 40 - 64,Male,Number of patients,Psychiatric,5,Pre-COVID
+2019,Health board of residence,NHS Shetland,Ages 40 - 64,Female,Number of patients,Psychiatric,5,Pre-COVID
+2019,Health board of residence,NHS Shetland,Ages 65+,Male,Number of patients,Psychiatric,0,Pre-COVID
+2019,Health board of residence,NHS Shetland,Ages 65+,Female,Number of patients,Psychiatric,0,Pre-COVID
+2019,Health board of residence,NHS Tayside,Ages 0 - 17,Male,Number of patients,Psychiatric,10,Pre-COVID
+2019,Health board of residence,NHS Tayside,Ages 0 - 17,Female,Number of patients,Psychiatric,20,Pre-COVID
+2019,Health board of residence,NHS Tayside,Ages 18 - 24,Male,Number of patients,Psychiatric,65,Pre-COVID
+2019,Health board of residence,NHS Tayside,Ages 18 - 24,Female,Number of patients,Psychiatric,70,Pre-COVID
+2019,Health board of residence,NHS Tayside,Ages 25 - 39,Male,Number of patients,Psychiatric,210,Pre-COVID
+2019,Health board of residence,NHS Tayside,Ages 25 - 39,Female,Number of patients,Psychiatric,150,Pre-COVID
+2019,Health board of residence,NHS Tayside,Ages 40 - 64,Male,Number of patients,Psychiatric,265,Pre-COVID
+2019,Health board of residence,NHS Tayside,Ages 40 - 64,Female,Number of patients,Psychiatric,220,Pre-COVID
+2019,Health board of residence,NHS Tayside,Ages 65+,Male,Number of patients,Psychiatric,160,Pre-COVID
+2019,Health board of residence,NHS Tayside,Ages 65+,Female,Number of patients,Psychiatric,190,Pre-COVID
+2019,Health board of residence,NHS Western Isles,Ages 0 - 17,Male,Number of patients,Psychiatric,0,Pre-COVID
+2019,Health board of residence,NHS Western Isles,Ages 0 - 17,Female,Number of patients,Psychiatric,5,Pre-COVID
+2019,Health board of residence,NHS Western Isles,Ages 18 - 24,Male,Number of patients,Psychiatric,0,Pre-COVID
+2019,Health board of residence,NHS Western Isles,Ages 18 - 24,Female,Number of patients,Psychiatric,0,Pre-COVID
+2019,Health board of residence,NHS Western Isles,Ages 25 - 39,Male,Number of patients,Psychiatric,10,Pre-COVID
+2019,Health board of residence,NHS Western Isles,Ages 25 - 39,Female,Number of patients,Psychiatric,0,Pre-COVID
+2019,Health board of residence,NHS Western Isles,Ages 40 - 64,Male,Number of patients,Psychiatric,10,Pre-COVID
+2019,Health board of residence,NHS Western Isles,Ages 40 - 64,Female,Number of patients,Psychiatric,10,Pre-COVID
+2019,Health board of residence,NHS Western Isles,Ages 65+,Male,Number of patients,Psychiatric,5,Pre-COVID
+2019,Health board of residence,NHS Western Isles,Ages 65+,Female,Number of patients,Psychiatric,5,Pre-COVID
+2019,Health board of residence,Other,Ages 0 - 17,Male,Number of patients,Psychiatric,0,Pre-COVID
+2019,Health board of residence,Other,Ages 0 - 17,Female,Number of patients,Psychiatric,0,Pre-COVID
+2019,Health board of residence,Other,Ages 18 - 24,Male,Number of patients,Psychiatric,20,Pre-COVID
+2019,Health board of residence,Other,Ages 18 - 24,Female,Number of patients,Psychiatric,15,Pre-COVID
+2019,Health board of residence,Other,Ages 25 - 39,Male,Number of patients,Psychiatric,100,Pre-COVID
+2019,Health board of residence,Other,Ages 25 - 39,Female,Number of patients,Psychiatric,40,Pre-COVID
+2019,Health board of residence,Other,Ages 40 - 64,Male,Number of patients,Psychiatric,85,Pre-COVID
+2019,Health board of residence,Other,Ages 40 - 64,Female,Number of patients,Psychiatric,45,Pre-COVID
+2019,Health board of residence,Other,Ages 65+,Male,Number of patients,Psychiatric,15,Pre-COVID
+2019,Health board of residence,Other,Ages 65+,Female,Number of patients,Psychiatric,5,Pre-COVID
+2020,Health board of residence,NHS Ayrshire & Arran,Ages 0 - 17,Male,Number of patients,Psychiatric,5,COVID-19
+2020,Health board of residence,NHS Ayrshire & Arran,Ages 0 - 17,Female,Number of patients,Psychiatric,15,COVID-19
+2020,Health board of residence,NHS Ayrshire & Arran,Ages 18 - 24,Male,Number of patients,Psychiatric,35,COVID-19
+2020,Health board of residence,NHS Ayrshire & Arran,Ages 18 - 24,Female,Number of patients,Psychiatric,15,COVID-19
+2020,Health board of residence,NHS Ayrshire & Arran,Ages 25 - 39,Male,Number of patients,Psychiatric,115,COVID-19
+2020,Health board of residence,NHS Ayrshire & Arran,Ages 25 - 39,Female,Number of patients,Psychiatric,60,COVID-19
+2020,Health board of residence,NHS Ayrshire & Arran,Ages 40 - 64,Male,Number of patients,Psychiatric,190,COVID-19
+2020,Health board of residence,NHS Ayrshire & Arran,Ages 40 - 64,Female,Number of patients,Psychiatric,130,COVID-19
+2020,Health board of residence,NHS Ayrshire & Arran,Ages 65+,Male,Number of patients,Psychiatric,90,COVID-19
+2020,Health board of residence,NHS Ayrshire & Arran,Ages 65+,Female,Number of patients,Psychiatric,80,COVID-19
+2020,Health board of residence,NHS Borders,Ages 0 - 17,Male,Number of patients,Psychiatric,5,COVID-19
+2020,Health board of residence,NHS Borders,Ages 0 - 17,Female,Number of patients,Psychiatric,10,COVID-19
+2020,Health board of residence,NHS Borders,Ages 18 - 24,Male,Number of patients,Psychiatric,15,COVID-19
+2020,Health board of residence,NHS Borders,Ages 18 - 24,Female,Number of patients,Psychiatric,15,COVID-19
+2020,Health board of residence,NHS Borders,Ages 25 - 39,Male,Number of patients,Psychiatric,40,COVID-19
+2020,Health board of residence,NHS Borders,Ages 25 - 39,Female,Number of patients,Psychiatric,30,COVID-19
+2020,Health board of residence,NHS Borders,Ages 40 - 64,Male,Number of patients,Psychiatric,60,COVID-19
+2020,Health board of residence,NHS Borders,Ages 40 - 64,Female,Number of patients,Psychiatric,55,COVID-19
+2020,Health board of residence,NHS Borders,Ages 65+,Male,Number of patients,Psychiatric,25,COVID-19
+2020,Health board of residence,NHS Borders,Ages 65+,Female,Number of patients,Psychiatric,30,COVID-19
+2020,Health board of residence,NHS Dumfries & Galloway,Ages 0 - 17,Male,Number of patients,Psychiatric,0,COVID-19
+2020,Health board of residence,NHS Dumfries & Galloway,Ages 0 - 17,Female,Number of patients,Psychiatric,10,COVID-19
+2020,Health board of residence,NHS Dumfries & Galloway,Ages 18 - 24,Male,Number of patients,Psychiatric,20,COVID-19
+2020,Health board of residence,NHS Dumfries & Galloway,Ages 18 - 24,Female,Number of patients,Psychiatric,20,COVID-19
+2020,Health board of residence,NHS Dumfries & Galloway,Ages 25 - 39,Male,Number of patients,Psychiatric,50,COVID-19
+2020,Health board of residence,NHS Dumfries & Galloway,Ages 25 - 39,Female,Number of patients,Psychiatric,45,COVID-19
+2020,Health board of residence,NHS Dumfries & Galloway,Ages 40 - 64,Male,Number of patients,Psychiatric,70,COVID-19
+2020,Health board of residence,NHS Dumfries & Galloway,Ages 40 - 64,Female,Number of patients,Psychiatric,55,COVID-19
+2020,Health board of residence,NHS Dumfries & Galloway,Ages 65+,Male,Number of patients,Psychiatric,45,COVID-19
+2020,Health board of residence,NHS Dumfries & Galloway,Ages 65+,Female,Number of patients,Psychiatric,65,COVID-19
+2020,Health board of residence,NHS Fife,Ages 0 - 17,Male,Number of patients,Psychiatric,5,COVID-19
+2020,Health board of residence,NHS Fife,Ages 0 - 17,Female,Number of patients,Psychiatric,5,COVID-19
+2020,Health board of residence,NHS Fife,Ages 18 - 24,Male,Number of patients,Psychiatric,25,COVID-19
+2020,Health board of residence,NHS Fife,Ages 18 - 24,Female,Number of patients,Psychiatric,35,COVID-19
+2020,Health board of residence,NHS Fife,Ages 25 - 39,Male,Number of patients,Psychiatric,105,COVID-19
+2020,Health board of residence,NHS Fife,Ages 25 - 39,Female,Number of patients,Psychiatric,90,COVID-19
+2020,Health board of residence,NHS Fife,Ages 40 - 64,Male,Number of patients,Psychiatric,135,COVID-19
+2020,Health board of residence,NHS Fife,Ages 40 - 64,Female,Number of patients,Psychiatric,95,COVID-19
+2020,Health board of residence,NHS Fife,Ages 65+,Male,Number of patients,Psychiatric,105,COVID-19
+2020,Health board of residence,NHS Fife,Ages 65+,Female,Number of patients,Psychiatric,95,COVID-19
+2020,Health board of residence,NHS Forth Valley,Ages 0 - 17,Male,Number of patients,Psychiatric,5,COVID-19
+2020,Health board of residence,NHS Forth Valley,Ages 0 - 17,Female,Number of patients,Psychiatric,15,COVID-19
+2020,Health board of residence,NHS Forth Valley,Ages 18 - 24,Male,Number of patients,Psychiatric,30,COVID-19
+2020,Health board of residence,NHS Forth Valley,Ages 18 - 24,Female,Number of patients,Psychiatric,30,COVID-19
+2020,Health board of residence,NHS Forth Valley,Ages 25 - 39,Male,Number of patients,Psychiatric,85,COVID-19
+2020,Health board of residence,NHS Forth Valley,Ages 25 - 39,Female,Number of patients,Psychiatric,70,COVID-19
+2020,Health board of residence,NHS Forth Valley,Ages 40 - 64,Male,Number of patients,Psychiatric,120,COVID-19
+2020,Health board of residence,NHS Forth Valley,Ages 40 - 64,Female,Number of patients,Psychiatric,105,COVID-19
+2020,Health board of residence,NHS Forth Valley,Ages 65+,Male,Number of patients,Psychiatric,115,COVID-19
+2020,Health board of residence,NHS Forth Valley,Ages 65+,Female,Number of patients,Psychiatric,100,COVID-19
+2020,Health board of residence,NHS Grampian,Ages 0 - 17,Male,Number of patients,Psychiatric,5,COVID-19
+2020,Health board of residence,NHS Grampian,Ages 0 - 17,Female,Number of patients,Psychiatric,15,COVID-19
+2020,Health board of residence,NHS Grampian,Ages 18 - 24,Male,Number of patients,Psychiatric,45,COVID-19
+2020,Health board of residence,NHS Grampian,Ages 18 - 24,Female,Number of patients,Psychiatric,45,COVID-19
+2020,Health board of residence,NHS Grampian,Ages 25 - 39,Male,Number of patients,Psychiatric,135,COVID-19
+2020,Health board of residence,NHS Grampian,Ages 25 - 39,Female,Number of patients,Psychiatric,110,COVID-19
+2020,Health board of residence,NHS Grampian,Ages 40 - 64,Male,Number of patients,Psychiatric,200,COVID-19
+2020,Health board of residence,NHS Grampian,Ages 40 - 64,Female,Number of patients,Psychiatric,185,COVID-19
+2020,Health board of residence,NHS Grampian,Ages 65+,Male,Number of patients,Psychiatric,165,COVID-19
+2020,Health board of residence,NHS Grampian,Ages 65+,Female,Number of patients,Psychiatric,160,COVID-19
+2020,Health board of residence,NHS Greater Glasgow & Clyde,Ages 0 - 17,Male,Number of patients,Psychiatric,15,COVID-19
+2020,Health board of residence,NHS Greater Glasgow & Clyde,Ages 0 - 17,Female,Number of patients,Psychiatric,65,COVID-19
+2020,Health board of residence,NHS Greater Glasgow & Clyde,Ages 18 - 24,Male,Number of patients,Psychiatric,145,COVID-19
+2020,Health board of residence,NHS Greater Glasgow & Clyde,Ages 18 - 24,Female,Number of patients,Psychiatric,120,COVID-19
+2020,Health board of residence,NHS Greater Glasgow & Clyde,Ages 25 - 39,Male,Number of patients,Psychiatric,450,COVID-19
+2020,Health board of residence,NHS Greater Glasgow & Clyde,Ages 25 - 39,Female,Number of patients,Psychiatric,375,COVID-19
+2020,Health board of residence,NHS Greater Glasgow & Clyde,Ages 40 - 64,Male,Number of patients,Psychiatric,755,COVID-19
+2020,Health board of residence,NHS Greater Glasgow & Clyde,Ages 40 - 64,Female,Number of patients,Psychiatric,575,COVID-19
+2020,Health board of residence,NHS Greater Glasgow & Clyde,Ages 65+,Male,Number of patients,Psychiatric,340,COVID-19
+2020,Health board of residence,NHS Greater Glasgow & Clyde,Ages 65+,Female,Number of patients,Psychiatric,335,COVID-19
+2020,Health board of residence,NHS Highland,Ages 0 - 17,Male,Number of patients,Psychiatric,0,COVID-19
+2020,Health board of residence,NHS Highland,Ages 0 - 17,Female,Number of patients,Psychiatric,20,COVID-19
+2020,Health board of residence,NHS Highland,Ages 18 - 24,Male,Number of patients,Psychiatric,35,COVID-19
+2020,Health board of residence,NHS Highland,Ages 18 - 24,Female,Number of patients,Psychiatric,20,COVID-19
+2020,Health board of residence,NHS Highland,Ages 25 - 39,Male,Number of patients,Psychiatric,65,COVID-19
+2020,Health board of residence,NHS Highland,Ages 25 - 39,Female,Number of patients,Psychiatric,55,COVID-19
+2020,Health board of residence,NHS Highland,Ages 40 - 64,Male,Number of patients,Psychiatric,110,COVID-19
+2020,Health board of residence,NHS Highland,Ages 40 - 64,Female,Number of patients,Psychiatric,100,COVID-19
+2020,Health board of residence,NHS Highland,Ages 65+,Male,Number of patients,Psychiatric,75,COVID-19
+2020,Health board of residence,NHS Highland,Ages 65+,Female,Number of patients,Psychiatric,85,COVID-19
+2020,Health board of residence,NHS Lanarkshire,Ages 0 - 17,Male,Number of patients,Psychiatric,5,COVID-19
+2020,Health board of residence,NHS Lanarkshire,Ages 0 - 17,Female,Number of patients,Psychiatric,30,COVID-19
+2020,Health board of residence,NHS Lanarkshire,Ages 18 - 24,Male,Number of patients,Psychiatric,60,COVID-19
+2020,Health board of residence,NHS Lanarkshire,Ages 18 - 24,Female,Number of patients,Psychiatric,45,COVID-19
+2020,Health board of residence,NHS Lanarkshire,Ages 25 - 39,Male,Number of patients,Psychiatric,165,COVID-19
+2020,Health board of residence,NHS Lanarkshire,Ages 25 - 39,Female,Number of patients,Psychiatric,125,COVID-19
+2020,Health board of residence,NHS Lanarkshire,Ages 40 - 64,Male,Number of patients,Psychiatric,210,COVID-19
+2020,Health board of residence,NHS Lanarkshire,Ages 40 - 64,Female,Number of patients,Psychiatric,205,COVID-19
+2020,Health board of residence,NHS Lanarkshire,Ages 65+,Male,Number of patients,Psychiatric,150,COVID-19
+2020,Health board of residence,NHS Lanarkshire,Ages 65+,Female,Number of patients,Psychiatric,155,COVID-19
+2020,Health board of residence,NHS Lothian,Ages 0 - 17,Male,Number of patients,Psychiatric,15,COVID-19
+2020,Health board of residence,NHS Lothian,Ages 0 - 17,Female,Number of patients,Psychiatric,45,COVID-19
+2020,Health board of residence,NHS Lothian,Ages 18 - 24,Male,Number of patients,Psychiatric,105,COVID-19
+2020,Health board of residence,NHS Lothian,Ages 18 - 24,Female,Number of patients,Psychiatric,130,COVID-19
+2020,Health board of residence,NHS Lothian,Ages 25 - 39,Male,Number of patients,Psychiatric,290,COVID-19
+2020,Health board of residence,NHS Lothian,Ages 25 - 39,Female,Number of patients,Psychiatric,255,COVID-19
+2020,Health board of residence,NHS Lothian,Ages 40 - 64,Male,Number of patients,Psychiatric,445,COVID-19
+2020,Health board of residence,NHS Lothian,Ages 40 - 64,Female,Number of patients,Psychiatric,365,COVID-19
+2020,Health board of residence,NHS Lothian,Ages 65+,Male,Number of patients,Psychiatric,240,COVID-19
+2020,Health board of residence,NHS Lothian,Ages 65+,Female,Number of patients,Psychiatric,220,COVID-19
+2020,Health board of residence,NHS Orkney,Ages 0 - 17,Male,Number of patients,Psychiatric,0,COVID-19
+2020,Health board of residence,NHS Orkney,Ages 0 - 17,Female,Number of patients,Psychiatric,0,COVID-19
+2020,Health board of residence,NHS Orkney,Ages 18 - 24,Male,Number of patients,Psychiatric,0,COVID-19
+2020,Health board of residence,NHS Orkney,Ages 18 - 24,Female,Number of patients,Psychiatric,5,COVID-19
+2020,Health board of residence,NHS Orkney,Ages 25 - 39,Male,Number of patients,Psychiatric,0,COVID-19
+2020,Health board of residence,NHS Orkney,Ages 25 - 39,Female,Number of patients,Psychiatric,0,COVID-19
+2020,Health board of residence,NHS Orkney,Ages 40 - 64,Male,Number of patients,Psychiatric,0,COVID-19
+2020,Health board of residence,NHS Orkney,Ages 40 - 64,Female,Number of patients,Psychiatric,5,COVID-19
+2020,Health board of residence,NHS Orkney,Ages 65+,Male,Number of patients,Psychiatric,0,COVID-19
+2020,Health board of residence,NHS Orkney,Ages 65+,Female,Number of patients,Psychiatric,0,COVID-19
+2020,Health board of residence,NHS Shetland,Ages 0 - 17,Male,Number of patients,Psychiatric,0,COVID-19
+2020,Health board of residence,NHS Shetland,Ages 0 - 17,Female,Number of patients,Psychiatric,0,COVID-19
+2020,Health board of residence,NHS Shetland,Ages 18 - 24,Male,Number of patients,Psychiatric,0,COVID-19
+2020,Health board of residence,NHS Shetland,Ages 18 - 24,Female,Number of patients,Psychiatric,0,COVID-19
+2020,Health board of residence,NHS Shetland,Ages 25 - 39,Male,Number of patients,Psychiatric,0,COVID-19
+2020,Health board of residence,NHS Shetland,Ages 25 - 39,Female,Number of patients,Psychiatric,5,COVID-19
+2020,Health board of residence,NHS Shetland,Ages 40 - 64,Male,Number of patients,Psychiatric,0,COVID-19
+2020,Health board of residence,NHS Shetland,Ages 40 - 64,Female,Number of patients,Psychiatric,5,COVID-19
+2020,Health board of residence,NHS Shetland,Ages 65+,Male,Number of patients,Psychiatric,0,COVID-19
+2020,Health board of residence,NHS Shetland,Ages 65+,Female,Number of patients,Psychiatric,5,COVID-19
+2020,Health board of residence,NHS Tayside,Ages 0 - 17,Male,Number of patients,Psychiatric,10,COVID-19
+2020,Health board of residence,NHS Tayside,Ages 0 - 17,Female,Number of patients,Psychiatric,25,COVID-19
+2020,Health board of residence,NHS Tayside,Ages 18 - 24,Male,Number of patients,Psychiatric,45,COVID-19
+2020,Health board of residence,NHS Tayside,Ages 18 - 24,Female,Number of patients,Psychiatric,80,COVID-19
+2020,Health board of residence,NHS Tayside,Ages 25 - 39,Male,Number of patients,Psychiatric,155,COVID-19
+2020,Health board of residence,NHS Tayside,Ages 25 - 39,Female,Number of patients,Psychiatric,150,COVID-19
+2020,Health board of residence,NHS Tayside,Ages 40 - 64,Male,Number of patients,Psychiatric,235,COVID-19
+2020,Health board of residence,NHS Tayside,Ages 40 - 64,Female,Number of patients,Psychiatric,200,COVID-19
+2020,Health board of residence,NHS Tayside,Ages 65+,Male,Number of patients,Psychiatric,165,COVID-19
+2020,Health board of residence,NHS Tayside,Ages 65+,Female,Number of patients,Psychiatric,150,COVID-19
+2020,Health board of residence,NHS Western Isles,Ages 0 - 17,Male,Number of patients,Psychiatric,0,COVID-19
+2020,Health board of residence,NHS Western Isles,Ages 0 - 17,Female,Number of patients,Psychiatric,0,COVID-19
+2020,Health board of residence,NHS Western Isles,Ages 18 - 24,Male,Number of patients,Psychiatric,5,COVID-19
+2020,Health board of residence,NHS Western Isles,Ages 18 - 24,Female,Number of patients,Psychiatric,5,COVID-19
+2020,Health board of residence,NHS Western Isles,Ages 25 - 39,Male,Number of patients,Psychiatric,5,COVID-19
+2020,Health board of residence,NHS Western Isles,Ages 25 - 39,Female,Number of patients,Psychiatric,5,COVID-19
+2020,Health board of residence,NHS Western Isles,Ages 40 - 64,Male,Number of patients,Psychiatric,10,COVID-19
+2020,Health board of residence,NHS Western Isles,Ages 40 - 64,Female,Number of patients,Psychiatric,10,COVID-19
+2020,Health board of residence,NHS Western Isles,Ages 65+,Male,Number of patients,Psychiatric,5,COVID-19
+2020,Health board of residence,NHS Western Isles,Ages 65+,Female,Number of patients,Psychiatric,5,COVID-19
+2020,Health board of residence,Other,Ages 0 - 17,Male,Number of patients,Psychiatric,0,COVID-19
+2020,Health board of residence,Other,Ages 0 - 17,Female,Number of patients,Psychiatric,0,COVID-19
+2020,Health board of residence,Other,Ages 18 - 24,Male,Number of patients,Psychiatric,10,COVID-19
+2020,Health board of residence,Other,Ages 18 - 24,Female,Number of patients,Psychiatric,25,COVID-19
+2020,Health board of residence,Other,Ages 25 - 39,Male,Number of patients,Psychiatric,70,COVID-19
+2020,Health board of residence,Other,Ages 25 - 39,Female,Number of patients,Psychiatric,30,COVID-19
+2020,Health board of residence,Other,Ages 40 - 64,Male,Number of patients,Psychiatric,60,COVID-19
+2020,Health board of residence,Other,Ages 40 - 64,Female,Number of patients,Psychiatric,30,COVID-19
+2020,Health board of residence,Other,Ages 65+,Male,Number of patients,Psychiatric,5,COVID-19
+2020,Health board of residence,Other,Ages 65+,Female,Number of patients,Psychiatric,5,COVID-19
+2021,Health board of residence,NHS Ayrshire & Arran,Ages 0 - 17,Male,Number of patients,Psychiatric,5,COVID-19
+2021,Health board of residence,NHS Ayrshire & Arran,Ages 0 - 17,Female,Number of patients,Psychiatric,10,COVID-19
+2021,Health board of residence,NHS Ayrshire & Arran,Ages 18 - 24,Male,Number of patients,Psychiatric,20,COVID-19
+2021,Health board of residence,NHS Ayrshire & Arran,Ages 18 - 24,Female,Number of patients,Psychiatric,20,COVID-19
+2021,Health board of residence,NHS Ayrshire & Arran,Ages 25 - 39,Male,Number of patients,Psychiatric,100,COVID-19
+2021,Health board of residence,NHS Ayrshire & Arran,Ages 25 - 39,Female,Number of patients,Psychiatric,65,COVID-19
+2021,Health board of residence,NHS Ayrshire & Arran,Ages 40 - 64,Male,Number of patients,Psychiatric,180,COVID-19
+2021,Health board of residence,NHS Ayrshire & Arran,Ages 40 - 64,Female,Number of patients,Psychiatric,160,COVID-19
+2021,Health board of residence,NHS Ayrshire & Arran,Ages 65+,Male,Number of patients,Psychiatric,70,COVID-19
+2021,Health board of residence,NHS Ayrshire & Arran,Ages 65+,Female,Number of patients,Psychiatric,65,COVID-19
+2021,Health board of residence,NHS Borders,Ages 0 - 17,Male,Number of patients,Psychiatric,5,COVID-19
+2021,Health board of residence,NHS Borders,Ages 0 - 17,Female,Number of patients,Psychiatric,15,COVID-19
+2021,Health board of residence,NHS Borders,Ages 18 - 24,Male,Number of patients,Psychiatric,10,COVID-19
+2021,Health board of residence,NHS Borders,Ages 18 - 24,Female,Number of patients,Psychiatric,15,COVID-19
+2021,Health board of residence,NHS Borders,Ages 25 - 39,Male,Number of patients,Psychiatric,40,COVID-19
+2021,Health board of residence,NHS Borders,Ages 25 - 39,Female,Number of patients,Psychiatric,25,COVID-19
+2021,Health board of residence,NHS Borders,Ages 40 - 64,Male,Number of patients,Psychiatric,50,COVID-19
+2021,Health board of residence,NHS Borders,Ages 40 - 64,Female,Number of patients,Psychiatric,45,COVID-19
+2021,Health board of residence,NHS Borders,Ages 65+,Male,Number of patients,Psychiatric,25,COVID-19
+2021,Health board of residence,NHS Borders,Ages 65+,Female,Number of patients,Psychiatric,35,COVID-19
+2021,Health board of residence,NHS Dumfries & Galloway,Ages 0 - 17,Male,Number of patients,Psychiatric,0,COVID-19
+2021,Health board of residence,NHS Dumfries & Galloway,Ages 0 - 17,Female,Number of patients,Psychiatric,5,COVID-19
+2021,Health board of residence,NHS Dumfries & Galloway,Ages 18 - 24,Male,Number of patients,Psychiatric,15,COVID-19
+2021,Health board of residence,NHS Dumfries & Galloway,Ages 18 - 24,Female,Number of patients,Psychiatric,15,COVID-19
+2021,Health board of residence,NHS Dumfries & Galloway,Ages 25 - 39,Male,Number of patients,Psychiatric,50,COVID-19
+2021,Health board of residence,NHS Dumfries & Galloway,Ages 25 - 39,Female,Number of patients,Psychiatric,50,COVID-19
+2021,Health board of residence,NHS Dumfries & Galloway,Ages 40 - 64,Male,Number of patients,Psychiatric,80,COVID-19
+2021,Health board of residence,NHS Dumfries & Galloway,Ages 40 - 64,Female,Number of patients,Psychiatric,65,COVID-19
+2021,Health board of residence,NHS Dumfries & Galloway,Ages 65+,Male,Number of patients,Psychiatric,50,COVID-19
+2021,Health board of residence,NHS Dumfries & Galloway,Ages 65+,Female,Number of patients,Psychiatric,50,COVID-19
+2021,Health board of residence,NHS Fife,Ages 0 - 17,Male,Number of patients,Psychiatric,5,COVID-19
+2021,Health board of residence,NHS Fife,Ages 0 - 17,Female,Number of patients,Psychiatric,10,COVID-19
+2021,Health board of residence,NHS Fife,Ages 18 - 24,Male,Number of patients,Psychiatric,40,COVID-19
+2021,Health board of residence,NHS Fife,Ages 18 - 24,Female,Number of patients,Psychiatric,35,COVID-19
+2021,Health board of residence,NHS Fife,Ages 25 - 39,Male,Number of patients,Psychiatric,125,COVID-19
+2021,Health board of residence,NHS Fife,Ages 25 - 39,Female,Number of patients,Psychiatric,110,COVID-19
+2021,Health board of residence,NHS Fife,Ages 40 - 64,Male,Number of patients,Psychiatric,155,COVID-19
+2021,Health board of residence,NHS Fife,Ages 40 - 64,Female,Number of patients,Psychiatric,140,COVID-19
+2021,Health board of residence,NHS Fife,Ages 65+,Male,Number of patients,Psychiatric,110,COVID-19
+2021,Health board of residence,NHS Fife,Ages 65+,Female,Number of patients,Psychiatric,110,COVID-19
+2021,Health board of residence,NHS Forth Valley,Ages 0 - 17,Male,Number of patients,Psychiatric,5,COVID-19
+2021,Health board of residence,NHS Forth Valley,Ages 0 - 17,Female,Number of patients,Psychiatric,15,COVID-19
+2021,Health board of residence,NHS Forth Valley,Ages 18 - 24,Male,Number of patients,Psychiatric,25,COVID-19
+2021,Health board of residence,NHS Forth Valley,Ages 18 - 24,Female,Number of patients,Psychiatric,30,COVID-19
+2021,Health board of residence,NHS Forth Valley,Ages 25 - 39,Male,Number of patients,Psychiatric,90,COVID-19
+2021,Health board of residence,NHS Forth Valley,Ages 25 - 39,Female,Number of patients,Psychiatric,60,COVID-19
+2021,Health board of residence,NHS Forth Valley,Ages 40 - 64,Male,Number of patients,Psychiatric,135,COVID-19
+2021,Health board of residence,NHS Forth Valley,Ages 40 - 64,Female,Number of patients,Psychiatric,105,COVID-19
+2021,Health board of residence,NHS Forth Valley,Ages 65+,Male,Number of patients,Psychiatric,100,COVID-19
+2021,Health board of residence,NHS Forth Valley,Ages 65+,Female,Number of patients,Psychiatric,120,COVID-19
+2021,Health board of residence,NHS Grampian,Ages 0 - 17,Male,Number of patients,Psychiatric,5,COVID-19
+2021,Health board of residence,NHS Grampian,Ages 0 - 17,Female,Number of patients,Psychiatric,10,COVID-19
+2021,Health board of residence,NHS Grampian,Ages 18 - 24,Male,Number of patients,Psychiatric,50,COVID-19
+2021,Health board of residence,NHS Grampian,Ages 18 - 24,Female,Number of patients,Psychiatric,45,COVID-19
+2021,Health board of residence,NHS Grampian,Ages 25 - 39,Male,Number of patients,Psychiatric,135,COVID-19
+2021,Health board of residence,NHS Grampian,Ages 25 - 39,Female,Number of patients,Psychiatric,120,COVID-19
+2021,Health board of residence,NHS Grampian,Ages 40 - 64,Male,Number of patients,Psychiatric,190,COVID-19
+2021,Health board of residence,NHS Grampian,Ages 40 - 64,Female,Number of patients,Psychiatric,185,COVID-19
+2021,Health board of residence,NHS Grampian,Ages 65+,Male,Number of patients,Psychiatric,130,COVID-19
+2021,Health board of residence,NHS Grampian,Ages 65+,Female,Number of patients,Psychiatric,170,COVID-19
+2021,Health board of residence,NHS Greater Glasgow & Clyde,Ages 0 - 17,Male,Number of patients,Psychiatric,20,COVID-19
+2021,Health board of residence,NHS Greater Glasgow & Clyde,Ages 0 - 17,Female,Number of patients,Psychiatric,50,COVID-19
+2021,Health board of residence,NHS Greater Glasgow & Clyde,Ages 18 - 24,Male,Number of patients,Psychiatric,120,COVID-19
+2021,Health board of residence,NHS Greater Glasgow & Clyde,Ages 18 - 24,Female,Number of patients,Psychiatric,140,COVID-19
+2021,Health board of residence,NHS Greater Glasgow & Clyde,Ages 25 - 39,Male,Number of patients,Psychiatric,430,COVID-19
+2021,Health board of residence,NHS Greater Glasgow & Clyde,Ages 25 - 39,Female,Number of patients,Psychiatric,365,COVID-19
+2021,Health board of residence,NHS Greater Glasgow & Clyde,Ages 40 - 64,Male,Number of patients,Psychiatric,725,COVID-19
+2021,Health board of residence,NHS Greater Glasgow & Clyde,Ages 40 - 64,Female,Number of patients,Psychiatric,525,COVID-19
+2021,Health board of residence,NHS Greater Glasgow & Clyde,Ages 65+,Male,Number of patients,Psychiatric,300,COVID-19
+2021,Health board of residence,NHS Greater Glasgow & Clyde,Ages 65+,Female,Number of patients,Psychiatric,300,COVID-19
+2021,Health board of residence,NHS Highland,Ages 0 - 17,Male,Number of patients,Psychiatric,5,COVID-19
+2021,Health board of residence,NHS Highland,Ages 0 - 17,Female,Number of patients,Psychiatric,10,COVID-19
+2021,Health board of residence,NHS Highland,Ages 18 - 24,Male,Number of patients,Psychiatric,20,COVID-19
+2021,Health board of residence,NHS Highland,Ages 18 - 24,Female,Number of patients,Psychiatric,25,COVID-19
+2021,Health board of residence,NHS Highland,Ages 25 - 39,Male,Number of patients,Psychiatric,65,COVID-19
+2021,Health board of residence,NHS Highland,Ages 25 - 39,Female,Number of patients,Psychiatric,35,COVID-19
+2021,Health board of residence,NHS Highland,Ages 40 - 64,Male,Number of patients,Psychiatric,120,COVID-19
+2021,Health board of residence,NHS Highland,Ages 40 - 64,Female,Number of patients,Psychiatric,95,COVID-19
+2021,Health board of residence,NHS Highland,Ages 65+,Male,Number of patients,Psychiatric,60,COVID-19
+2021,Health board of residence,NHS Highland,Ages 65+,Female,Number of patients,Psychiatric,45,COVID-19
+2021,Health board of residence,NHS Lanarkshire,Ages 0 - 17,Male,Number of patients,Psychiatric,15,COVID-19
+2021,Health board of residence,NHS Lanarkshire,Ages 0 - 17,Female,Number of patients,Psychiatric,35,COVID-19
+2021,Health board of residence,NHS Lanarkshire,Ages 18 - 24,Male,Number of patients,Psychiatric,55,COVID-19
+2021,Health board of residence,NHS Lanarkshire,Ages 18 - 24,Female,Number of patients,Psychiatric,60,COVID-19
+2021,Health board of residence,NHS Lanarkshire,Ages 25 - 39,Male,Number of patients,Psychiatric,170,COVID-19
+2021,Health board of residence,NHS Lanarkshire,Ages 25 - 39,Female,Number of patients,Psychiatric,135,COVID-19
+2021,Health board of residence,NHS Lanarkshire,Ages 40 - 64,Male,Number of patients,Psychiatric,225,COVID-19
+2021,Health board of residence,NHS Lanarkshire,Ages 40 - 64,Female,Number of patients,Psychiatric,230,COVID-19
+2021,Health board of residence,NHS Lanarkshire,Ages 65+,Male,Number of patients,Psychiatric,140,COVID-19
+2021,Health board of residence,NHS Lanarkshire,Ages 65+,Female,Number of patients,Psychiatric,135,COVID-19
+2021,Health board of residence,NHS Lothian,Ages 0 - 17,Male,Number of patients,Psychiatric,15,COVID-19
+2021,Health board of residence,NHS Lothian,Ages 0 - 17,Female,Number of patients,Psychiatric,45,COVID-19
+2021,Health board of residence,NHS Lothian,Ages 18 - 24,Male,Number of patients,Psychiatric,105,COVID-19
+2021,Health board of residence,NHS Lothian,Ages 18 - 24,Female,Number of patients,Psychiatric,120,COVID-19
+2021,Health board of residence,NHS Lothian,Ages 25 - 39,Male,Number of patients,Psychiatric,295,COVID-19
+2021,Health board of residence,NHS Lothian,Ages 25 - 39,Female,Number of patients,Psychiatric,220,COVID-19
+2021,Health board of residence,NHS Lothian,Ages 40 - 64,Male,Number of patients,Psychiatric,430,COVID-19
+2021,Health board of residence,NHS Lothian,Ages 40 - 64,Female,Number of patients,Psychiatric,355,COVID-19
+2021,Health board of residence,NHS Lothian,Ages 65+,Male,Number of patients,Psychiatric,240,COVID-19
+2021,Health board of residence,NHS Lothian,Ages 65+,Female,Number of patients,Psychiatric,250,COVID-19
+2021,Health board of residence,NHS Orkney,Ages 0 - 17,Male,Number of patients,Psychiatric,0,COVID-19
+2021,Health board of residence,NHS Orkney,Ages 0 - 17,Female,Number of patients,Psychiatric,0,COVID-19
+2021,Health board of residence,NHS Orkney,Ages 18 - 24,Male,Number of patients,Psychiatric,0,COVID-19
+2021,Health board of residence,NHS Orkney,Ages 18 - 24,Female,Number of patients,Psychiatric,5,COVID-19
+2021,Health board of residence,NHS Orkney,Ages 25 - 39,Male,Number of patients,Psychiatric,5,COVID-19
+2021,Health board of residence,NHS Orkney,Ages 25 - 39,Female,Number of patients,Psychiatric,5,COVID-19
+2021,Health board of residence,NHS Orkney,Ages 40 - 64,Male,Number of patients,Psychiatric,5,COVID-19
+2021,Health board of residence,NHS Orkney,Ages 40 - 64,Female,Number of patients,Psychiatric,0,COVID-19
+2021,Health board of residence,NHS Orkney,Ages 65+,Male,Number of patients,Psychiatric,0,COVID-19
+2021,Health board of residence,NHS Orkney,Ages 65+,Female,Number of patients,Psychiatric,5,COVID-19
+2021,Health board of residence,NHS Shetland,Ages 0 - 17,Male,Number of patients,Psychiatric,0,COVID-19
+2021,Health board of residence,NHS Shetland,Ages 0 - 17,Female,Number of patients,Psychiatric,0,COVID-19
+2021,Health board of residence,NHS Shetland,Ages 18 - 24,Male,Number of patients,Psychiatric,0,COVID-19
+2021,Health board of residence,NHS Shetland,Ages 18 - 24,Female,Number of patients,Psychiatric,0,COVID-19
+2021,Health board of residence,NHS Shetland,Ages 25 - 39,Male,Number of patients,Psychiatric,5,COVID-19
+2021,Health board of residence,NHS Shetland,Ages 25 - 39,Female,Number of patients,Psychiatric,5,COVID-19
+2021,Health board of residence,NHS Shetland,Ages 40 - 64,Male,Number of patients,Psychiatric,5,COVID-19
+2021,Health board of residence,NHS Shetland,Ages 40 - 64,Female,Number of patients,Psychiatric,5,COVID-19
+2021,Health board of residence,NHS Shetland,Ages 65+,Male,Number of patients,Psychiatric,5,COVID-19
+2021,Health board of residence,NHS Shetland,Ages 65+,Female,Number of patients,Psychiatric,5,COVID-19
+2021,Health board of residence,NHS Tayside,Ages 0 - 17,Male,Number of patients,Psychiatric,10,COVID-19
+2021,Health board of residence,NHS Tayside,Ages 0 - 17,Female,Number of patients,Psychiatric,30,COVID-19
+2021,Health board of residence,NHS Tayside,Ages 18 - 24,Male,Number of patients,Psychiatric,65,COVID-19
+2021,Health board of residence,NHS Tayside,Ages 18 - 24,Female,Number of patients,Psychiatric,70,COVID-19
+2021,Health board of residence,NHS Tayside,Ages 25 - 39,Male,Number of patients,Psychiatric,175,COVID-19
+2021,Health board of residence,NHS Tayside,Ages 25 - 39,Female,Number of patients,Psychiatric,150,COVID-19
+2021,Health board of residence,NHS Tayside,Ages 40 - 64,Male,Number of patients,Psychiatric,260,COVID-19
+2021,Health board of residence,NHS Tayside,Ages 40 - 64,Female,Number of patients,Psychiatric,215,COVID-19
+2021,Health board of residence,NHS Tayside,Ages 65+,Male,Number of patients,Psychiatric,140,COVID-19
+2021,Health board of residence,NHS Tayside,Ages 65+,Female,Number of patients,Psychiatric,155,COVID-19
+2021,Health board of residence,NHS Western Isles,Ages 0 - 17,Male,Number of patients,Psychiatric,0,COVID-19
+2021,Health board of residence,NHS Western Isles,Ages 0 - 17,Female,Number of patients,Psychiatric,0,COVID-19
+2021,Health board of residence,NHS Western Isles,Ages 18 - 24,Male,Number of patients,Psychiatric,5,COVID-19
+2021,Health board of residence,NHS Western Isles,Ages 18 - 24,Female,Number of patients,Psychiatric,5,COVID-19
+2021,Health board of residence,NHS Western Isles,Ages 25 - 39,Male,Number of patients,Psychiatric,5,COVID-19
+2021,Health board of residence,NHS Western Isles,Ages 25 - 39,Female,Number of patients,Psychiatric,5,COVID-19
+2021,Health board of residence,NHS Western Isles,Ages 40 - 64,Male,Number of patients,Psychiatric,15,COVID-19
+2021,Health board of residence,NHS Western Isles,Ages 40 - 64,Female,Number of patients,Psychiatric,10,COVID-19
+2021,Health board of residence,NHS Western Isles,Ages 65+,Male,Number of patients,Psychiatric,5,COVID-19
+2021,Health board of residence,NHS Western Isles,Ages 65+,Female,Number of patients,Psychiatric,5,COVID-19
+2021,Health board of residence,Other,Ages 0 - 17,Male,Number of patients,Psychiatric,0,COVID-19
+2021,Health board of residence,Other,Ages 0 - 17,Female,Number of patients,Psychiatric,0,COVID-19
+2021,Health board of residence,Other,Ages 18 - 24,Male,Number of patients,Psychiatric,15,COVID-19
+2021,Health board of residence,Other,Ages 18 - 24,Female,Number of patients,Psychiatric,20,COVID-19
+2021,Health board of residence,Other,Ages 25 - 39,Male,Number of patients,Psychiatric,60,COVID-19
+2021,Health board of residence,Other,Ages 25 - 39,Female,Number of patients,Psychiatric,40,COVID-19
+2021,Health board of residence,Other,Ages 40 - 64,Male,Number of patients,Psychiatric,90,COVID-19
+2021,Health board of residence,Other,Ages 40 - 64,Female,Number of patients,Psychiatric,40,COVID-19
+2021,Health board of residence,Other,Ages 65+,Male,Number of patients,Psychiatric,15,COVID-19
+2021,Health board of residence,Other,Ages 65+,Female,Number of patients,Psychiatric,10,COVID-19
+2022,Health board of residence,NHS Ayrshire & Arran,Ages 0 - 17,Male,Number of patients,Psychiatric,0,Post-COVID
+2022,Health board of residence,NHS Ayrshire & Arran,Ages 0 - 17,Female,Number of patients,Psychiatric,15,Post-COVID
+2022,Health board of residence,NHS Ayrshire & Arran,Ages 18 - 24,Male,Number of patients,Psychiatric,20,Post-COVID
+2022,Health board of residence,NHS Ayrshire & Arran,Ages 18 - 24,Female,Number of patients,Psychiatric,25,Post-COVID
+2022,Health board of residence,NHS Ayrshire & Arran,Ages 25 - 39,Male,Number of patients,Psychiatric,100,Post-COVID
+2022,Health board of residence,NHS Ayrshire & Arran,Ages 25 - 39,Female,Number of patients,Psychiatric,60,Post-COVID
+2022,Health board of residence,NHS Ayrshire & Arran,Ages 40 - 64,Male,Number of patients,Psychiatric,150,Post-COVID
+2022,Health board of residence,NHS Ayrshire & Arran,Ages 40 - 64,Female,Number of patients,Psychiatric,150,Post-COVID
+2022,Health board of residence,NHS Ayrshire & Arran,Ages 65+,Male,Number of patients,Psychiatric,70,Post-COVID
+2022,Health board of residence,NHS Ayrshire & Arran,Ages 65+,Female,Number of patients,Psychiatric,75,Post-COVID
+2022,Health board of residence,NHS Borders,Ages 0 - 17,Male,Number of patients,Psychiatric,0,Post-COVID
+2022,Health board of residence,NHS Borders,Ages 0 - 17,Female,Number of patients,Psychiatric,10,Post-COVID
+2022,Health board of residence,NHS Borders,Ages 18 - 24,Male,Number of patients,Psychiatric,5,Post-COVID
+2022,Health board of residence,NHS Borders,Ages 18 - 24,Female,Number of patients,Psychiatric,15,Post-COVID
+2022,Health board of residence,NHS Borders,Ages 25 - 39,Male,Number of patients,Psychiatric,30,Post-COVID
+2022,Health board of residence,NHS Borders,Ages 25 - 39,Female,Number of patients,Psychiatric,25,Post-COVID
+2022,Health board of residence,NHS Borders,Ages 40 - 64,Male,Number of patients,Psychiatric,70,Post-COVID
+2022,Health board of residence,NHS Borders,Ages 40 - 64,Female,Number of patients,Psychiatric,45,Post-COVID
+2022,Health board of residence,NHS Borders,Ages 65+,Male,Number of patients,Psychiatric,30,Post-COVID
+2022,Health board of residence,NHS Borders,Ages 65+,Female,Number of patients,Psychiatric,40,Post-COVID
+2022,Health board of residence,NHS Dumfries & Galloway,Ages 0 - 17,Male,Number of patients,Psychiatric,0,Post-COVID
+2022,Health board of residence,NHS Dumfries & Galloway,Ages 0 - 17,Female,Number of patients,Psychiatric,5,Post-COVID
+2022,Health board of residence,NHS Dumfries & Galloway,Ages 18 - 24,Male,Number of patients,Psychiatric,15,Post-COVID
+2022,Health board of residence,NHS Dumfries & Galloway,Ages 18 - 24,Female,Number of patients,Psychiatric,15,Post-COVID
+2022,Health board of residence,NHS Dumfries & Galloway,Ages 25 - 39,Male,Number of patients,Psychiatric,55,Post-COVID
+2022,Health board of residence,NHS Dumfries & Galloway,Ages 25 - 39,Female,Number of patients,Psychiatric,45,Post-COVID
+2022,Health board of residence,NHS Dumfries & Galloway,Ages 40 - 64,Male,Number of patients,Psychiatric,75,Post-COVID
+2022,Health board of residence,NHS Dumfries & Galloway,Ages 40 - 64,Female,Number of patients,Psychiatric,70,Post-COVID
+2022,Health board of residence,NHS Dumfries & Galloway,Ages 65+,Male,Number of patients,Psychiatric,50,Post-COVID
+2022,Health board of residence,NHS Dumfries & Galloway,Ages 65+,Female,Number of patients,Psychiatric,60,Post-COVID
+2022,Health board of residence,NHS Fife,Ages 0 - 17,Male,Number of patients,Psychiatric,5,Post-COVID
+2022,Health board of residence,NHS Fife,Ages 0 - 17,Female,Number of patients,Psychiatric,10,Post-COVID
+2022,Health board of residence,NHS Fife,Ages 18 - 24,Male,Number of patients,Psychiatric,30,Post-COVID
+2022,Health board of residence,NHS Fife,Ages 18 - 24,Female,Number of patients,Psychiatric,30,Post-COVID
+2022,Health board of residence,NHS Fife,Ages 25 - 39,Male,Number of patients,Psychiatric,100,Post-COVID
+2022,Health board of residence,NHS Fife,Ages 25 - 39,Female,Number of patients,Psychiatric,120,Post-COVID
+2022,Health board of residence,NHS Fife,Ages 40 - 64,Male,Number of patients,Psychiatric,170,Post-COVID
+2022,Health board of residence,NHS Fife,Ages 40 - 64,Female,Number of patients,Psychiatric,140,Post-COVID
+2022,Health board of residence,NHS Fife,Ages 65+,Male,Number of patients,Psychiatric,110,Post-COVID
+2022,Health board of residence,NHS Fife,Ages 65+,Female,Number of patients,Psychiatric,120,Post-COVID
+2022,Health board of residence,NHS Forth Valley,Ages 0 - 17,Male,Number of patients,Psychiatric,5,Post-COVID
+2022,Health board of residence,NHS Forth Valley,Ages 0 - 17,Female,Number of patients,Psychiatric,5,Post-COVID
+2022,Health board of residence,NHS Forth Valley,Ages 18 - 24,Male,Number of patients,Psychiatric,35,Post-COVID
+2022,Health board of residence,NHS Forth Valley,Ages 18 - 24,Female,Number of patients,Psychiatric,20,Post-COVID
+2022,Health board of residence,NHS Forth Valley,Ages 25 - 39,Male,Number of patients,Psychiatric,80,Post-COVID
+2022,Health board of residence,NHS Forth Valley,Ages 25 - 39,Female,Number of patients,Psychiatric,85,Post-COVID
+2022,Health board of residence,NHS Forth Valley,Ages 40 - 64,Male,Number of patients,Psychiatric,110,Post-COVID
+2022,Health board of residence,NHS Forth Valley,Ages 40 - 64,Female,Number of patients,Psychiatric,110,Post-COVID
+2022,Health board of residence,NHS Forth Valley,Ages 65+,Male,Number of patients,Psychiatric,105,Post-COVID
+2022,Health board of residence,NHS Forth Valley,Ages 65+,Female,Number of patients,Psychiatric,125,Post-COVID
+2022,Health board of residence,NHS Grampian,Ages 0 - 17,Male,Number of patients,Psychiatric,5,Post-COVID
+2022,Health board of residence,NHS Grampian,Ages 0 - 17,Female,Number of patients,Psychiatric,10,Post-COVID
+2022,Health board of residence,NHS Grampian,Ages 18 - 24,Male,Number of patients,Psychiatric,35,Post-COVID
+2022,Health board of residence,NHS Grampian,Ages 18 - 24,Female,Number of patients,Psychiatric,45,Post-COVID
+2022,Health board of residence,NHS Grampian,Ages 25 - 39,Male,Number of patients,Psychiatric,130,Post-COVID
+2022,Health board of residence,NHS Grampian,Ages 25 - 39,Female,Number of patients,Psychiatric,110,Post-COVID
+2022,Health board of residence,NHS Grampian,Ages 40 - 64,Male,Number of patients,Psychiatric,180,Post-COVID
+2022,Health board of residence,NHS Grampian,Ages 40 - 64,Female,Number of patients,Psychiatric,170,Post-COVID
+2022,Health board of residence,NHS Grampian,Ages 65+,Male,Number of patients,Psychiatric,140,Post-COVID
+2022,Health board of residence,NHS Grampian,Ages 65+,Female,Number of patients,Psychiatric,155,Post-COVID
+2022,Health board of residence,NHS Greater Glasgow & Clyde,Ages 0 - 17,Male,Number of patients,Psychiatric,10,Post-COVID
+2022,Health board of residence,NHS Greater Glasgow & Clyde,Ages 0 - 17,Female,Number of patients,Psychiatric,40,Post-COVID
+2022,Health board of residence,NHS Greater Glasgow & Clyde,Ages 18 - 24,Male,Number of patients,Psychiatric,115,Post-COVID
+2022,Health board of residence,NHS Greater Glasgow & Clyde,Ages 18 - 24,Female,Number of patients,Psychiatric,110,Post-COVID
+2022,Health board of residence,NHS Greater Glasgow & Clyde,Ages 25 - 39,Male,Number of patients,Psychiatric,435,Post-COVID
+2022,Health board of residence,NHS Greater Glasgow & Clyde,Ages 25 - 39,Female,Number of patients,Psychiatric,355,Post-COVID
+2022,Health board of residence,NHS Greater Glasgow & Clyde,Ages 40 - 64,Male,Number of patients,Psychiatric,700,Post-COVID
+2022,Health board of residence,NHS Greater Glasgow & Clyde,Ages 40 - 64,Female,Number of patients,Psychiatric,555,Post-COVID
+2022,Health board of residence,NHS Greater Glasgow & Clyde,Ages 65+,Male,Number of patients,Psychiatric,310,Post-COVID
+2022,Health board of residence,NHS Greater Glasgow & Clyde,Ages 65+,Female,Number of patients,Psychiatric,315,Post-COVID
+2022,Health board of residence,NHS Highland,Ages 0 - 17,Male,Number of patients,Psychiatric,0,Post-COVID
+2022,Health board of residence,NHS Highland,Ages 0 - 17,Female,Number of patients,Psychiatric,20,Post-COVID
+2022,Health board of residence,NHS Highland,Ages 18 - 24,Male,Number of patients,Psychiatric,25,Post-COVID
+2022,Health board of residence,NHS Highland,Ages 18 - 24,Female,Number of patients,Psychiatric,25,Post-COVID
+2022,Health board of residence,NHS Highland,Ages 25 - 39,Male,Number of patients,Psychiatric,65,Post-COVID
+2022,Health board of residence,NHS Highland,Ages 25 - 39,Female,Number of patients,Psychiatric,50,Post-COVID
+2022,Health board of residence,NHS Highland,Ages 40 - 64,Male,Number of patients,Psychiatric,125,Post-COVID
+2022,Health board of residence,NHS Highland,Ages 40 - 64,Female,Number of patients,Psychiatric,80,Post-COVID
+2022,Health board of residence,NHS Highland,Ages 65+,Male,Number of patients,Psychiatric,55,Post-COVID
+2022,Health board of residence,NHS Highland,Ages 65+,Female,Number of patients,Psychiatric,55,Post-COVID
+2022,Health board of residence,NHS Lanarkshire,Ages 0 - 17,Male,Number of patients,Psychiatric,10,Post-COVID
+2022,Health board of residence,NHS Lanarkshire,Ages 0 - 17,Female,Number of patients,Psychiatric,30,Post-COVID
+2022,Health board of residence,NHS Lanarkshire,Ages 18 - 24,Male,Number of patients,Psychiatric,45,Post-COVID
+2022,Health board of residence,NHS Lanarkshire,Ages 18 - 24,Female,Number of patients,Psychiatric,55,Post-COVID
+2022,Health board of residence,NHS Lanarkshire,Ages 25 - 39,Male,Number of patients,Psychiatric,195,Post-COVID
+2022,Health board of residence,NHS Lanarkshire,Ages 25 - 39,Female,Number of patients,Psychiatric,150,Post-COVID
+2022,Health board of residence,NHS Lanarkshire,Ages 40 - 64,Male,Number of patients,Psychiatric,250,Post-COVID
+2022,Health board of residence,NHS Lanarkshire,Ages 40 - 64,Female,Number of patients,Psychiatric,215,Post-COVID
+2022,Health board of residence,NHS Lanarkshire,Ages 65+,Male,Number of patients,Psychiatric,140,Post-COVID
+2022,Health board of residence,NHS Lanarkshire,Ages 65+,Female,Number of patients,Psychiatric,150,Post-COVID
+2022,Health board of residence,NHS Lothian,Ages 0 - 17,Male,Number of patients,Psychiatric,10,Post-COVID
+2022,Health board of residence,NHS Lothian,Ages 0 - 17,Female,Number of patients,Psychiatric,40,Post-COVID
+2022,Health board of residence,NHS Lothian,Ages 18 - 24,Male,Number of patients,Psychiatric,90,Post-COVID
+2022,Health board of residence,NHS Lothian,Ages 18 - 24,Female,Number of patients,Psychiatric,85,Post-COVID
+2022,Health board of residence,NHS Lothian,Ages 25 - 39,Male,Number of patients,Psychiatric,305,Post-COVID
+2022,Health board of residence,NHS Lothian,Ages 25 - 39,Female,Number of patients,Psychiatric,205,Post-COVID
+2022,Health board of residence,NHS Lothian,Ages 40 - 64,Male,Number of patients,Psychiatric,465,Post-COVID
+2022,Health board of residence,NHS Lothian,Ages 40 - 64,Female,Number of patients,Psychiatric,390,Post-COVID
+2022,Health board of residence,NHS Lothian,Ages 65+,Male,Number of patients,Psychiatric,235,Post-COVID
+2022,Health board of residence,NHS Lothian,Ages 65+,Female,Number of patients,Psychiatric,250,Post-COVID
+2022,Health board of residence,NHS Orkney,Ages 0 - 17,Male,Number of patients,Psychiatric,0,Post-COVID
+2022,Health board of residence,NHS Orkney,Ages 0 - 17,Female,Number of patients,Psychiatric,0,Post-COVID
+2022,Health board of residence,NHS Orkney,Ages 18 - 24,Male,Number of patients,Psychiatric,0,Post-COVID
+2022,Health board of residence,NHS Orkney,Ages 18 - 24,Female,Number of patients,Psychiatric,0,Post-COVID
+2022,Health board of residence,NHS Orkney,Ages 25 - 39,Male,Number of patients,Psychiatric,5,Post-COVID
+2022,Health board of residence,NHS Orkney,Ages 25 - 39,Female,Number of patients,Psychiatric,0,Post-COVID
+2022,Health board of residence,NHS Orkney,Ages 40 - 64,Male,Number of patients,Psychiatric,0,Post-COVID
+2022,Health board of residence,NHS Orkney,Ages 40 - 64,Female,Number of patients,Psychiatric,5,Post-COVID
+2022,Health board of residence,NHS Orkney,Ages 65+,Male,Number of patients,Psychiatric,0,Post-COVID
+2022,Health board of residence,NHS Orkney,Ages 65+,Female,Number of patients,Psychiatric,0,Post-COVID
+2022,Health board of residence,NHS Shetland,Ages 0 - 17,Male,Number of patients,Psychiatric,0,Post-COVID
+2022,Health board of residence,NHS Shetland,Ages 0 - 17,Female,Number of patients,Psychiatric,0,Post-COVID
+2022,Health board of residence,NHS Shetland,Ages 18 - 24,Male,Number of patients,Psychiatric,0,Post-COVID
+2022,Health board of residence,NHS Shetland,Ages 18 - 24,Female,Number of patients,Psychiatric,0,Post-COVID
+2022,Health board of residence,NHS Shetland,Ages 25 - 39,Male,Number of patients,Psychiatric,5,Post-COVID
+2022,Health board of residence,NHS Shetland,Ages 25 - 39,Female,Number of patients,Psychiatric,5,Post-COVID
+2022,Health board of residence,NHS Shetland,Ages 40 - 64,Male,Number of patients,Psychiatric,5,Post-COVID
+2022,Health board of residence,NHS Shetland,Ages 40 - 64,Female,Number of patients,Psychiatric,0,Post-COVID
+2022,Health board of residence,NHS Shetland,Ages 65+,Male,Number of patients,Psychiatric,0,Post-COVID
+2022,Health board of residence,NHS Shetland,Ages 65+,Female,Number of patients,Psychiatric,0,Post-COVID
+2022,Health board of residence,NHS Tayside,Ages 0 - 17,Male,Number of patients,Psychiatric,10,Post-COVID
+2022,Health board of residence,NHS Tayside,Ages 0 - 17,Female,Number of patients,Psychiatric,15,Post-COVID
+2022,Health board of residence,NHS Tayside,Ages 18 - 24,Male,Number of patients,Psychiatric,40,Post-COVID
+2022,Health board of residence,NHS Tayside,Ages 18 - 24,Female,Number of patients,Psychiatric,50,Post-COVID
+2022,Health board of residence,NHS Tayside,Ages 25 - 39,Male,Number of patients,Psychiatric,160,Post-COVID
+2022,Health board of residence,NHS Tayside,Ages 25 - 39,Female,Number of patients,Psychiatric,115,Post-COVID
+2022,Health board of residence,NHS Tayside,Ages 40 - 64,Male,Number of patients,Psychiatric,275,Post-COVID
+2022,Health board of residence,NHS Tayside,Ages 40 - 64,Female,Number of patients,Psychiatric,220,Post-COVID
+2022,Health board of residence,NHS Tayside,Ages 65+,Male,Number of patients,Psychiatric,135,Post-COVID
+2022,Health board of residence,NHS Tayside,Ages 65+,Female,Number of patients,Psychiatric,150,Post-COVID
+2022,Health board of residence,NHS Western Isles,Ages 0 - 17,Male,Number of patients,Psychiatric,0,Post-COVID
+2022,Health board of residence,NHS Western Isles,Ages 0 - 17,Female,Number of patients,Psychiatric,0,Post-COVID
+2022,Health board of residence,NHS Western Isles,Ages 18 - 24,Male,Number of patients,Psychiatric,0,Post-COVID
+2022,Health board of residence,NHS Western Isles,Ages 18 - 24,Female,Number of patients,Psychiatric,5,Post-COVID
+2022,Health board of residence,NHS Western Isles,Ages 25 - 39,Male,Number of patients,Psychiatric,10,Post-COVID
+2022,Health board of residence,NHS Western Isles,Ages 25 - 39,Female,Number of patients,Psychiatric,5,Post-COVID
+2022,Health board of residence,NHS Western Isles,Ages 40 - 64,Male,Number of patients,Psychiatric,15,Post-COVID
+2022,Health board of residence,NHS Western Isles,Ages 40 - 64,Female,Number of patients,Psychiatric,5,Post-COVID
+2022,Health board of residence,NHS Western Isles,Ages 65+,Male,Number of patients,Psychiatric,5,Post-COVID
+2022,Health board of residence,NHS Western Isles,Ages 65+,Female,Number of patients,Psychiatric,5,Post-COVID
+2022,Health board of residence,Other,Ages 0 - 17,Male,Number of patients,Psychiatric,0,Post-COVID
+2022,Health board of residence,Other,Ages 0 - 17,Female,Number of patients,Psychiatric,0,Post-COVID
+2022,Health board of residence,Other,Ages 18 - 24,Male,Number of patients,Psychiatric,10,Post-COVID
+2022,Health board of residence,Other,Ages 18 - 24,Female,Number of patients,Psychiatric,20,Post-COVID
+2022,Health board of residence,Other,Ages 25 - 39,Male,Number of patients,Psychiatric,50,Post-COVID
+2022,Health board of residence,Other,Ages 25 - 39,Female,Number of patients,Psychiatric,45,Post-COVID
+2022,Health board of residence,Other,Ages 40 - 64,Male,Number of patients,Psychiatric,80,Post-COVID
+2022,Health board of residence,Other,Ages 40 - 64,Female,Number of patients,Psychiatric,50,Post-COVID
+2022,Health board of residence,Other,Ages 65+,Male,Number of patients,Psychiatric,15,Post-COVID
+2022,Health board of residence,Other,Ages 65+,Female,Number of patients,Psychiatric,10,Post-COVID
+2023,Health board of residence,NHS Ayrshire & Arran,Ages 0 - 17,Male,Number of patients,Psychiatric,5,Post-COVID
+2023,Health board of residence,NHS Ayrshire & Arran,Ages 0 - 17,Female,Number of patients,Psychiatric,5,Post-COVID
+2023,Health board of residence,NHS Ayrshire & Arran,Ages 18 - 24,Male,Number of patients,Psychiatric,25,Post-COVID
+2023,Health board of residence,NHS Ayrshire & Arran,Ages 18 - 24,Female,Number of patients,Psychiatric,15,Post-COVID
+2023,Health board of residence,NHS Ayrshire & Arran,Ages 25 - 39,Male,Number of patients,Psychiatric,100,Post-COVID
+2023,Health board of residence,NHS Ayrshire & Arran,Ages 25 - 39,Female,Number of patients,Psychiatric,70,Post-COVID
+2023,Health board of residence,NHS Ayrshire & Arran,Ages 40 - 64,Male,Number of patients,Psychiatric,170,Post-COVID
+2023,Health board of residence,NHS Ayrshire & Arran,Ages 40 - 64,Female,Number of patients,Psychiatric,120,Post-COVID
+2023,Health board of residence,NHS Ayrshire & Arran,Ages 65+,Male,Number of patients,Psychiatric,70,Post-COVID
+2023,Health board of residence,NHS Ayrshire & Arran,Ages 65+,Female,Number of patients,Psychiatric,55,Post-COVID
+2023,Health board of residence,NHS Borders,Ages 0 - 17,Male,Number of patients,Psychiatric,0,Post-COVID
+2023,Health board of residence,NHS Borders,Ages 0 - 17,Female,Number of patients,Psychiatric,5,Post-COVID
+2023,Health board of residence,NHS Borders,Ages 18 - 24,Male,Number of patients,Psychiatric,5,Post-COVID
+2023,Health board of residence,NHS Borders,Ages 18 - 24,Female,Number of patients,Psychiatric,15,Post-COVID
+2023,Health board of residence,NHS Borders,Ages 25 - 39,Male,Number of patients,Psychiatric,30,Post-COVID
+2023,Health board of residence,NHS Borders,Ages 25 - 39,Female,Number of patients,Psychiatric,35,Post-COVID
+2023,Health board of residence,NHS Borders,Ages 40 - 64,Male,Number of patients,Psychiatric,65,Post-COVID
+2023,Health board of residence,NHS Borders,Ages 40 - 64,Female,Number of patients,Psychiatric,55,Post-COVID
+2023,Health board of residence,NHS Borders,Ages 65+,Male,Number of patients,Psychiatric,25,Post-COVID
+2023,Health board of residence,NHS Borders,Ages 65+,Female,Number of patients,Psychiatric,30,Post-COVID
+2023,Health board of residence,NHS Dumfries & Galloway,Ages 0 - 17,Male,Number of patients,Psychiatric,0,Post-COVID
+2023,Health board of residence,NHS Dumfries & Galloway,Ages 0 - 17,Female,Number of patients,Psychiatric,5,Post-COVID
+2023,Health board of residence,NHS Dumfries & Galloway,Ages 18 - 24,Male,Number of patients,Psychiatric,10,Post-COVID
+2023,Health board of residence,NHS Dumfries & Galloway,Ages 18 - 24,Female,Number of patients,Psychiatric,10,Post-COVID
+2023,Health board of residence,NHS Dumfries & Galloway,Ages 25 - 39,Male,Number of patients,Psychiatric,55,Post-COVID
+2023,Health board of residence,NHS Dumfries & Galloway,Ages 25 - 39,Female,Number of patients,Psychiatric,45,Post-COVID
+2023,Health board of residence,NHS Dumfries & Galloway,Ages 40 - 64,Male,Number of patients,Psychiatric,70,Post-COVID
+2023,Health board of residence,NHS Dumfries & Galloway,Ages 40 - 64,Female,Number of patients,Psychiatric,70,Post-COVID
+2023,Health board of residence,NHS Dumfries & Galloway,Ages 65+,Male,Number of patients,Psychiatric,65,Post-COVID
+2023,Health board of residence,NHS Dumfries & Galloway,Ages 65+,Female,Number of patients,Psychiatric,60,Post-COVID
+2023,Health board of residence,NHS Fife,Ages 0 - 17,Male,Number of patients,Psychiatric,5,Post-COVID
+2023,Health board of residence,NHS Fife,Ages 0 - 17,Female,Number of patients,Psychiatric,15,Post-COVID
+2023,Health board of residence,NHS Fife,Ages 18 - 24,Male,Number of patients,Psychiatric,35,Post-COVID
+2023,Health board of residence,NHS Fife,Ages 18 - 24,Female,Number of patients,Psychiatric,20,Post-COVID
+2023,Health board of residence,NHS Fife,Ages 25 - 39,Male,Number of patients,Psychiatric,120,Post-COVID
+2023,Health board of residence,NHS Fife,Ages 25 - 39,Female,Number of patients,Psychiatric,105,Post-COVID
+2023,Health board of residence,NHS Fife,Ages 40 - 64,Male,Number of patients,Psychiatric,170,Post-COVID
+2023,Health board of residence,NHS Fife,Ages 40 - 64,Female,Number of patients,Psychiatric,165,Post-COVID
+2023,Health board of residence,NHS Fife,Ages 65+,Male,Number of patients,Psychiatric,115,Post-COVID
+2023,Health board of residence,NHS Fife,Ages 65+,Female,Number of patients,Psychiatric,130,Post-COVID
+2023,Health board of residence,NHS Forth Valley,Ages 0 - 17,Male,Number of patients,Psychiatric,5,Post-COVID
+2023,Health board of residence,NHS Forth Valley,Ages 0 - 17,Female,Number of patients,Psychiatric,10,Post-COVID
+2023,Health board of residence,NHS Forth Valley,Ages 18 - 24,Male,Number of patients,Psychiatric,25,Post-COVID
+2023,Health board of residence,NHS Forth Valley,Ages 18 - 24,Female,Number of patients,Psychiatric,25,Post-COVID
+2023,Health board of residence,NHS Forth Valley,Ages 25 - 39,Male,Number of patients,Psychiatric,95,Post-COVID
+2023,Health board of residence,NHS Forth Valley,Ages 25 - 39,Female,Number of patients,Psychiatric,75,Post-COVID
+2023,Health board of residence,NHS Forth Valley,Ages 40 - 64,Male,Number of patients,Psychiatric,135,Post-COVID
+2023,Health board of residence,NHS Forth Valley,Ages 40 - 64,Female,Number of patients,Psychiatric,110,Post-COVID
+2023,Health board of residence,NHS Forth Valley,Ages 65+,Male,Number of patients,Psychiatric,90,Post-COVID
+2023,Health board of residence,NHS Forth Valley,Ages 65+,Female,Number of patients,Psychiatric,100,Post-COVID
+2023,Health board of residence,NHS Grampian,Ages 0 - 17,Male,Number of patients,Psychiatric,5,Post-COVID
+2023,Health board of residence,NHS Grampian,Ages 0 - 17,Female,Number of patients,Psychiatric,5,Post-COVID
+2023,Health board of residence,NHS Grampian,Ages 18 - 24,Male,Number of patients,Psychiatric,40,Post-COVID
+2023,Health board of residence,NHS Grampian,Ages 18 - 24,Female,Number of patients,Psychiatric,35,Post-COVID
+2023,Health board of residence,NHS Grampian,Ages 25 - 39,Male,Number of patients,Psychiatric,120,Post-COVID
+2023,Health board of residence,NHS Grampian,Ages 25 - 39,Female,Number of patients,Psychiatric,90,Post-COVID
+2023,Health board of residence,NHS Grampian,Ages 40 - 64,Male,Number of patients,Psychiatric,190,Post-COVID
+2023,Health board of residence,NHS Grampian,Ages 40 - 64,Female,Number of patients,Psychiatric,140,Post-COVID
+2023,Health board of residence,NHS Grampian,Ages 65+,Male,Number of patients,Psychiatric,135,Post-COVID
+2023,Health board of residence,NHS Grampian,Ages 65+,Female,Number of patients,Psychiatric,115,Post-COVID
+2023,Health board of residence,NHS Greater Glasgow & Clyde,Ages 0 - 17,Male,Number of patients,Psychiatric,15,Post-COVID
+2023,Health board of residence,NHS Greater Glasgow & Clyde,Ages 0 - 17,Female,Number of patients,Psychiatric,55,Post-COVID
+2023,Health board of residence,NHS Greater Glasgow & Clyde,Ages 18 - 24,Male,Number of patients,Psychiatric,115,Post-COVID
+2023,Health board of residence,NHS Greater Glasgow & Clyde,Ages 18 - 24,Female,Number of patients,Psychiatric,105,Post-COVID
+2023,Health board of residence,NHS Greater Glasgow & Clyde,Ages 25 - 39,Male,Number of patients,Psychiatric,435,Post-COVID
+2023,Health board of residence,NHS Greater Glasgow & Clyde,Ages 25 - 39,Female,Number of patients,Psychiatric,350,Post-COVID
+2023,Health board of residence,NHS Greater Glasgow & Clyde,Ages 40 - 64,Male,Number of patients,Psychiatric,835,Post-COVID
+2023,Health board of residence,NHS Greater Glasgow & Clyde,Ages 40 - 64,Female,Number of patients,Psychiatric,565,Post-COVID
+2023,Health board of residence,NHS Greater Glasgow & Clyde,Ages 65+,Male,Number of patients,Psychiatric,310,Post-COVID
+2023,Health board of residence,NHS Greater Glasgow & Clyde,Ages 65+,Female,Number of patients,Psychiatric,295,Post-COVID
+2023,Health board of residence,NHS Highland,Ages 0 - 17,Male,Number of patients,Psychiatric,5,Post-COVID
+2023,Health board of residence,NHS Highland,Ages 0 - 17,Female,Number of patients,Psychiatric,10,Post-COVID
+2023,Health board of residence,NHS Highland,Ages 18 - 24,Male,Number of patients,Psychiatric,10,Post-COVID
+2023,Health board of residence,NHS Highland,Ages 18 - 24,Female,Number of patients,Psychiatric,10,Post-COVID
+2023,Health board of residence,NHS Highland,Ages 25 - 39,Male,Number of patients,Psychiatric,70,Post-COVID
+2023,Health board of residence,NHS Highland,Ages 25 - 39,Female,Number of patients,Psychiatric,45,Post-COVID
+2023,Health board of residence,NHS Highland,Ages 40 - 64,Male,Number of patients,Psychiatric,120,Post-COVID
+2023,Health board of residence,NHS Highland,Ages 40 - 64,Female,Number of patients,Psychiatric,100,Post-COVID
+2023,Health board of residence,NHS Highland,Ages 65+,Male,Number of patients,Psychiatric,35,Post-COVID
+2023,Health board of residence,NHS Highland,Ages 65+,Female,Number of patients,Psychiatric,40,Post-COVID
+2023,Health board of residence,NHS Lanarkshire,Ages 0 - 17,Male,Number of patients,Psychiatric,5,Post-COVID
+2023,Health board of residence,NHS Lanarkshire,Ages 0 - 17,Female,Number of patients,Psychiatric,30,Post-COVID
+2023,Health board of residence,NHS Lanarkshire,Ages 18 - 24,Male,Number of patients,Psychiatric,45,Post-COVID
+2023,Health board of residence,NHS Lanarkshire,Ages 18 - 24,Female,Number of patients,Psychiatric,45,Post-COVID
+2023,Health board of residence,NHS Lanarkshire,Ages 25 - 39,Male,Number of patients,Psychiatric,150,Post-COVID
+2023,Health board of residence,NHS Lanarkshire,Ages 25 - 39,Female,Number of patients,Psychiatric,140,Post-COVID
+2023,Health board of residence,NHS Lanarkshire,Ages 40 - 64,Male,Number of patients,Psychiatric,235,Post-COVID
+2023,Health board of residence,NHS Lanarkshire,Ages 40 - 64,Female,Number of patients,Psychiatric,200,Post-COVID
+2023,Health board of residence,NHS Lanarkshire,Ages 65+,Male,Number of patients,Psychiatric,135,Post-COVID
+2023,Health board of residence,NHS Lanarkshire,Ages 65+,Female,Number of patients,Psychiatric,145,Post-COVID
+2023,Health board of residence,NHS Lothian,Ages 0 - 17,Male,Number of patients,Psychiatric,15,Post-COVID
+2023,Health board of residence,NHS Lothian,Ages 0 - 17,Female,Number of patients,Psychiatric,30,Post-COVID
+2023,Health board of residence,NHS Lothian,Ages 18 - 24,Male,Number of patients,Psychiatric,80,Post-COVID
+2023,Health board of residence,NHS Lothian,Ages 18 - 24,Female,Number of patients,Psychiatric,75,Post-COVID
+2023,Health board of residence,NHS Lothian,Ages 25 - 39,Male,Number of patients,Psychiatric,265,Post-COVID
+2023,Health board of residence,NHS Lothian,Ages 25 - 39,Female,Number of patients,Psychiatric,215,Post-COVID
+2023,Health board of residence,NHS Lothian,Ages 40 - 64,Male,Number of patients,Psychiatric,450,Post-COVID
+2023,Health board of residence,NHS Lothian,Ages 40 - 64,Female,Number of patients,Psychiatric,345,Post-COVID
+2023,Health board of residence,NHS Lothian,Ages 65+,Male,Number of patients,Psychiatric,205,Post-COVID
+2023,Health board of residence,NHS Lothian,Ages 65+,Female,Number of patients,Psychiatric,225,Post-COVID
+2023,Health board of residence,NHS Orkney,Ages 0 - 17,Male,Number of patients,Psychiatric,0,Post-COVID
+2023,Health board of residence,NHS Orkney,Ages 0 - 17,Female,Number of patients,Psychiatric,0,Post-COVID
+2023,Health board of residence,NHS Orkney,Ages 18 - 24,Male,Number of patients,Psychiatric,0,Post-COVID
+2023,Health board of residence,NHS Orkney,Ages 18 - 24,Female,Number of patients,Psychiatric,0,Post-COVID
+2023,Health board of residence,NHS Orkney,Ages 25 - 39,Male,Number of patients,Psychiatric,5,Post-COVID
+2023,Health board of residence,NHS Orkney,Ages 25 - 39,Female,Number of patients,Psychiatric,5,Post-COVID
+2023,Health board of residence,NHS Orkney,Ages 40 - 64,Male,Number of patients,Psychiatric,5,Post-COVID
+2023,Health board of residence,NHS Orkney,Ages 40 - 64,Female,Number of patients,Psychiatric,5,Post-COVID
+2023,Health board of residence,NHS Orkney,Ages 65+,Male,Number of patients,Psychiatric,0,Post-COVID
+2023,Health board of residence,NHS Orkney,Ages 65+,Female,Number of patients,Psychiatric,0,Post-COVID
+2023,Health board of residence,NHS Shetland,Ages 0 - 17,Male,Number of patients,Psychiatric,0,Post-COVID
+2023,Health board of residence,NHS Shetland,Ages 0 - 17,Female,Number of patients,Psychiatric,0,Post-COVID
+2023,Health board of residence,NHS Shetland,Ages 18 - 24,Male,Number of patients,Psychiatric,0,Post-COVID
+2023,Health board of residence,NHS Shetland,Ages 18 - 24,Female,Number of patients,Psychiatric,0,Post-COVID
+2023,Health board of residence,NHS Shetland,Ages 25 - 39,Male,Number of patients,Psychiatric,5,Post-COVID
+2023,Health board of residence,NHS Shetland,Ages 25 - 39,Female,Number of patients,Psychiatric,5,Post-COVID
+2023,Health board of residence,NHS Shetland,Ages 40 - 64,Male,Number of patients,Psychiatric,0,Post-COVID
+2023,Health board of residence,NHS Shetland,Ages 40 - 64,Female,Number of patients,Psychiatric,5,Post-COVID
+2023,Health board of residence,NHS Shetland,Ages 65+,Male,Number of patients,Psychiatric,0,Post-COVID
+2023,Health board of residence,NHS Shetland,Ages 65+,Female,Number of patients,Psychiatric,0,Post-COVID
+2023,Health board of residence,NHS Tayside,Ages 0 - 17,Male,Number of patients,Psychiatric,5,Post-COVID
+2023,Health board of residence,NHS Tayside,Ages 0 - 17,Female,Number of patients,Psychiatric,15,Post-COVID
+2023,Health board of residence,NHS Tayside,Ages 18 - 24,Male,Number of patients,Psychiatric,50,Post-COVID
+2023,Health board of residence,NHS Tayside,Ages 18 - 24,Female,Number of patients,Psychiatric,50,Post-COVID
+2023,Health board of residence,NHS Tayside,Ages 25 - 39,Male,Number of patients,Psychiatric,195,Post-COVID
+2023,Health board of residence,NHS Tayside,Ages 25 - 39,Female,Number of patients,Psychiatric,135,Post-COVID
+2023,Health board of residence,NHS Tayside,Ages 40 - 64,Male,Number of patients,Psychiatric,275,Post-COVID
+2023,Health board of residence,NHS Tayside,Ages 40 - 64,Female,Number of patients,Psychiatric,210,Post-COVID
+2023,Health board of residence,NHS Tayside,Ages 65+,Male,Number of patients,Psychiatric,120,Post-COVID
+2023,Health board of residence,NHS Tayside,Ages 65+,Female,Number of patients,Psychiatric,160,Post-COVID
+2023,Health board of residence,NHS Western Isles,Ages 0 - 17,Male,Number of patients,Psychiatric,0,Post-COVID
+2023,Health board of residence,NHS Western Isles,Ages 0 - 17,Female,Number of patients,Psychiatric,0,Post-COVID
+2023,Health board of residence,NHS Western Isles,Ages 18 - 24,Male,Number of patients,Psychiatric,0,Post-COVID
+2023,Health board of residence,NHS Western Isles,Ages 18 - 24,Female,Number of patients,Psychiatric,0,Post-COVID
+2023,Health board of residence,NHS Western Isles,Ages 25 - 39,Male,Number of patients,Psychiatric,5,Post-COVID
+2023,Health board of residence,NHS Western Isles,Ages 25 - 39,Female,Number of patients,Psychiatric,5,Post-COVID
+2023,Health board of residence,NHS Western Isles,Ages 40 - 64,Male,Number of patients,Psychiatric,10,Post-COVID
+2023,Health board of residence,NHS Western Isles,Ages 40 - 64,Female,Number of patients,Psychiatric,5,Post-COVID
+2023,Health board of residence,NHS Western Isles,Ages 65+,Male,Number of patients,Psychiatric,5,Post-COVID
+2023,Health board of residence,NHS Western Isles,Ages 65+,Female,Number of patients,Psychiatric,10,Post-COVID
+2023,Health board of residence,Other,Ages 0 - 17,Male,Number of patients,Psychiatric,0,Post-COVID
+2023,Health board of residence,Other,Ages 0 - 17,Female,Number of patients,Psychiatric,5,Post-COVID
+2023,Health board of residence,Other,Ages 18 - 24,Male,Number of patients,Psychiatric,20,Post-COVID
+2023,Health board of residence,Other,Ages 18 - 24,Female,Number of patients,Psychiatric,20,Post-COVID
+2023,Health board of residence,Other,Ages 25 - 39,Male,Number of patients,Psychiatric,50,Post-COVID
+2023,Health board of residence,Other,Ages 25 - 39,Female,Number of patients,Psychiatric,40,Post-COVID
+2023,Health board of residence,Other,Ages 40 - 64,Male,Number of patients,Psychiatric,55,Post-COVID
+2023,Health board of residence,Other,Ages 40 - 64,Female,Number of patients,Psychiatric,55,Post-COVID
+2023,Health board of residence,Other,Ages 65+,Male,Number of patients,Psychiatric,20,Post-COVID
+2023,Health board of residence,Other,Ages 65+,Female,Number of patients,Psychiatric,5,Post-COVID

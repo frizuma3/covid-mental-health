@@ -1,0 +1,9 @@
+effect,group,term,estimate,std.error,statistic
+fixed,NA,(Intercept),938.6666666671599,252.59718711728166,3.716061439082194
+fixed,NA,time,-0.666666666629878,22.613239943246633,-0.02948125382753813
+fixed,NA,covid_indicator,-410.33333333504027,618.9453644805508,-0.6629556611663326
+fixed,NA,post_covid_time,-11.166666666727137,21.912300680984888,-0.5096072215008155
+ran_pars,geography2,sd__(Intercept),969.9027636173789,NA,NA
+ran_pars,geography2,cor__(Intercept).time,-0.9102364987989005,NA,NA
+ran_pars,geography2,sd__time,33.50961090155539,NA,NA
+ran_pars,Residual,sd__Observation,57.21662908720375,NA,NA
