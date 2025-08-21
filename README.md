@@ -1,4 +1,4 @@
-# Impact of COVID-19 on Mental Health in Scotland — Portfolio Repo
+# Impact of COVID-19 on Mental Health in Scotland - Data Trends
 
 This repository contains the core analysis and an interactive **Shiny dashboard** from my MSc Applied Data Analytics dissertation (UHI, 2024–2025).  
 It examines changes in mental health service usage around the COVID-19 intervention using **Interrupted Time Series** (GLS with AR(1)), alongside exploratory analyses by age/sex, diagnosis, data trends, and spending.
